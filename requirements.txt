@@ -1,5 +1,4 @@
 anthropic
-mcp[cli]
 pandas
 jinja2
 evidently
