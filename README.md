@@ -31,7 +31,7 @@ Due to the lack of publicly available actual call transcripts, a synthetic datas
     - <persona_1> (Advisor): Static persona -> (James Carter, Senior Wealth Advisor, Nevis).
     - <persona_2> (Client): Dynamic description with variable fields (Name, Background, Financial Situation, Personality, Communication Style, Objectives), based on profiles modeled after public figures (Elon Musk, Oprah Winfrey, Steve Jobs, Warren Buffett) to introduce diversity.
     - <dialogue_instructions>: Context and topics for current phase, formatting rules.
-- Generation Process: The conversation was generated iteratively, simulating the Advisor-Client interaction managed by the LLM with corresponding prompts. Dialogues are structured into phases with 60 exchanges in each phase.
+- Generation Process: The conversation was generated iteratively, simulating the Advisor-Client interaction managed by the LLM with corresponding prompts. Dialogues are structured into phases with 30 exchanges in each phase.
 
 It's important to understand the nature of this synthetic dataset. A key feature is that it generally presents clear dialogue where the LLM, acting as the client or advisor, tries to directly answer the questions asked, following the instructions given. This contrasts with real-world conversations, which can be quite different. In reality, speakers might respond unclearly, use filler sounds (like "um" or "uh"), avoid directly answering a question, or give inconsistent replies. 
 
