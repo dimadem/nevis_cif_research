@@ -83,7 +83,7 @@ Raw Transcript → Pre-processing → Structured Information Extraction → Post
 
 ### Reports
 All reports presented starting point for evaluation workflow.
-- unknown_form_keys - if form contain <UNKNOWN> value
+- unknown_form_keys - if form contain "UNKNOWN" value
 - total_form_keys - total fields presented in the form
 - completion_rate - proportion of form fields that have been completed
 - text_length - amount of characters in file
