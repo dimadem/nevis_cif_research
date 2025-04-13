@@ -125,7 +125,7 @@ The proposed solution automatically extracts structured information from convers
 
 
 ### Current Performance
-Using the synthetic data we generated, the system successfully identifies all required information categories and accurately fills 95% of the fields with data extracted from conversations. And it could be processed in up to 20 seconds.
+Using the synthetic data, the system successfully identifies all required information categories and accurately fills 95% of the fields with data extracted from conversations. And it could be processed in up to 20 seconds.
 
 ### Potential
 These initial results show potential to save time and effort compared to manual data entry. While precise accuracy measurement is pending, the current findings confirm our approach **works well for extracting structured information**.
