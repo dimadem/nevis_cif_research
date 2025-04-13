@@ -1,0 +1,6 @@
+python==3.12
+anthropic
+mcp[cli]
+pandas
+jinja2
+evidently

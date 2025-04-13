@@ -1,0 +1,989 @@
+{
+  "personal_details": [
+    {
+      "client": {
+        "title": "Ms.",
+        "first_name": "Oprah",
+        "middle_names": "Gail",
+        "last_name": "Winfrey",
+        "pronouns": "<UNKNOWN>",
+        "date_of_birth": "29/01/1954",
+        "place_of_birth": "<UNKNOWN>",
+        "nationality": "U.S.",
+        "gender": "<UNKNOWN>",
+        "legal_sex": "<UNKNOWN>",
+        "marital_status": "Unmarried",
+        "home_phone": "<UNKNOWN>",
+        "mobile_phone": "310-555-7890",
+        "email_address": "oprah@harpo.com"
+      }
+    },
+    {
+      "current_address": {
+        "ownership_status": "Owner",
+        "postcode": "93108",
+        "house_name_number": "65",
+        "street_name": "Promised Land Road",
+        "address_line_3": "<UNKNOWN>",
+        "address_line_4": "<UNKNOWN>",
+        "town_city": "Montecito",
+        "county": "California",
+        "country": [
+          "USA",
+          "United States"
+        ],
+        "move_in_date": "<UNKNOWN>"
+      }
+    },
+    {
+      "previous_addresses": {
+        "entries": [
+          {
+            "house_name_number": "652",
+            "street_name": "Hana Highway",
+            "town_city": [
+              "Kula",
+              "Chicago",
+              "Colorado",
+              "Maui",
+              "Nashville",
+              "Hawaii",
+              "Montecito"
+            ],
+            "county": [
+              "Illinois",
+              "Hawaii"
+            ],
+            "country": [
+              "USA",
+              "United States"
+            ],
+            "postcode": "96790",
+            "ownership_status": "Owner",
+            "move_in_date": "<UNKNOWN>",
+            "move_out_date": "<UNKNOWN>"
+          },
+          {
+            "house_name_number": "60",
+            "street_name": "Mountain View Drive",
+            "town_city": "Telluride",
+            "county": "<UNKNOWN>",
+            "country": "USA",
+            "postcode": "81435",
+            "ownership_status": "Owner",
+            "move_in_date": "<UNKNOWN>",
+            "move_out_date": "<UNKNOWN>"
+          },
+          {
+            "house_name_number": "1100",
+            "street_name": "North Lake Shore Drive",
+            "town_city": "Chicago",
+            "county": "<UNKNOWN>",
+            "country": "USA",
+            "postcode": "60611",
+            "ownership_status": "Owner",
+            "move_in_date": "<UNKNOWN>",
+            "move_out_date": "<UNKNOWN>"
+          }
+        ]
+      }
+    },
+    {
+      "dependants_children": {
+        "entries": [
+          {
+            "Name": "Leadership Academy graduates",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          }
+        ]
+      }
+    }
+  ],
+  "employment": [
+    {
+      "client": {
+        "country_domiciled": [
+          "USA",
+          "United States"
+        ],
+        "resident_for_tax": [
+          "USA",
+          "United States"
+        ],
+        "national_insurance_number": "<UNKNOWN>",
+        "employment_status": [
+          "Self-employed",
+          "Employed"
+        ],
+        "desired_retirement_age": "<UNKNOWN>",
+        "occupation": [
+          "Media Executive/Entrepreneur",
+          "Chairwoman and CEO",
+          "Media Executive/Business Owner"
+        ],
+        "employer": [
+          "Harpo Productions",
+          "OWN Network"
+        ],
+        "employment_started": "<UNKNOWN>",
+        "highest_rate_of_tax_paid": "<UNKNOWN>",
+        "notes": [
+          "Has a dedicated team running day-to-day operations while she remains strategically involved",
+          "Client has a financial director who will join future meetings",
+          "Income sources: 40% investment income, 25% OWN Network partnership, 15% content library royalties, 10% Weight Watchers dividends and brand ambassador work, 10% board positions, speaking engagements, and special projects",
+          "Client owns multiple properties across the United States",
+          "Has a 401(k) from Harpo Productions valued at $18 million",
+          "Serves as Chairwoman and CEO of Harpo Productions, but has delegated day-to-day operations",
+          "Board member at Weight Watchers, also an investor and brand ambassador",
+          "Net worth approximately $2.5 billion",
+          "Board member at Apple for streaming content initiatives",
+          "Has partnership with Apple TV+",
+          "Established a defined benefit plan structured to provide about $5 million annually upon retirement",
+          "Owns Harpo Productions and has stake in OWN Network and Weight Watchers",
+          "Involved in various philanthropic initiatives",
+          "Client has significant philanthropic interests that are important to her financial planning",
+          "Annual gross income ranges between $75-100 million",
+          "Business interests through Harpo Productions, OWN Network, and Weight Watchers account for roughly 30% of net worth",
+          "Owns and operates OWN network",
+          "Has significant media investments",
+          "Maintains a strategic role at OWN Network as a partner with Discovery",
+          "Client is Oprah Winfrey, a well-known media executive and entrepreneur",
+          "Does not anticipate traditional retirement in the conventional sense",
+          "Maintains multiple retirement accounts including a self-directed IRA valued at $35 million",
+          "Manages extensive real estate portfolio across multiple locations"
+        ]
+      }
+    },
+    {
+      "incomes": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Media Executive/Entrepreneur",
+              "Investment income",
+              "OWN Network partnership",
+              "Content library royalties",
+              "Weight Watchers dividends and brand ambassador work",
+              "Board positions, speaking engagements, and special projects",
+              "Total annual income",
+              "Defined Benefit Plan",
+              "Income-producing commercial properties",
+              "Business interests (Harpo Productions, OWN Network, Weight Watchers)",
+              "Charitable remainder trusts",
+              "OWN Network",
+              "Apple TV+ partnership",
+              "Media investments",
+              "Real estate portfolio"
+            ],
+            "amount": [
+              "40%",
+              "25%",
+              "15%",
+              "10%",
+              "$75-100 million",
+              "5 million"
+            ],
+            "frequency": [
+              "Annually",
+              "Quarterly",
+              "Semi-annually",
+              "Variable",
+              "Ongoing"
+            ],
+            "net_gross": "Gross",
+            "timeframe": [
+              "Current",
+              "Upon full retirement"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": "Harpo Productions",
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "Client owns multiple real estate properties including homes in Montecito, Maui, and Colorado",
+          "Client has a financial director who will join future meetings",
+          "Client has multiple income streams from media ventures including OWN Network and Apple TV+ partnership",
+          "Client's income-producing commercial properties are particularly in Chicago and Nashville",
+          "No specific income amounts or frequencies were mentioned in the conversation",
+          "Project-based income from new content development or speaking engagements is more unpredictable",
+          "Client's business interests through Harpo Productions, OWN Network, and Weight Watchers account for roughly 30% of net worth",
+          "Client is particularly interested in strategies to manage tax implications of this income mix, especially as it relates to philanthropic goals",
+          "Client is looking to streamline real estate holdings and possibly acquire property in Africa",
+          "Client has a 401(k) from Harpo Productions valued at around $18 million",
+          "About 60% of income is relatively predictable, with the remainder being more variable",
+          "Client makes strategic contributions to the IRA when advantageous from a tax perspective",
+          "Client has significant media investments that generate income",
+          "Client has a moderate to moderately aggressive risk tolerance for investments",
+          "Income can fluctuate based on new content deals and investment performance",
+          "Client has significant philanthropic interests that are important to her financial planning",
+          "Client aims for a 70/30 balance between philanthropic giving and capital preservation",
+          "Client owns multiple properties across the United States (Montecito, Maui, Telluride, Chicago)",
+          "Client has a self-directed IRA valued at approximately $35 million",
+          "Client is Oprah Winfrey, a well-known media executive and entrepreneur",
+          "Client remains strategically involved in major business decisions while having trusted presidents running day-to-day operations",
+          "Client is beyond contribution limits for the 401(k)"
+        ]
+      }
+    }
+  ],
+  "expenses": [
+    {
+      "loan_repayments": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Strategic mortgages on properties",
+              "Charitable remainder trusts",
+              "Leadership Academy graduates education support"
+            ],
+            "amount": "Unknown portion of $50 million total liabilities",
+            "frequency": [
+              "Monthly",
+              "Ongoing"
+            ],
+            "priority": [
+              "Medium",
+              "High"
+            ],
+            "timeframe": [
+              "Current",
+              "Current and future"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "housing_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Primary residence",
+              "Montecito, California property",
+              "Maui property",
+              "Colorado property",
+              "Chicago property",
+              "Strategic mortgages on properties",
+              "Montecito property",
+              "Income-producing commercial properties",
+              "Montecito residence",
+              "Maui residence",
+              "Colorado residence"
+            ],
+            "amount": "Portion of $50 million total liabilities",
+            "frequency": [
+              "Monthly",
+              "Ongoing"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": "Montecito property",
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>",
+            "priority": "High",
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": "Maui property",
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>",
+            "priority": "<UNKNOWN>",
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": "Telluride property",
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>",
+            "priority": "<UNKNOWN>",
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": "Chicago property",
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>",
+            "priority": "<UNKNOWN>",
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "motoring_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Vehicle expenses",
+              "Primary vehicles",
+              "Vehicle maintenance and expenses"
+            ],
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>",
+            "priority": "Medium",
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "personal_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Multiple properties maintenance",
+              "Philanthropic contributions",
+              "Leadership Academy in South Africa",
+              "Property maintenance",
+              "Family office operations",
+              "Personal lifestyle expenses",
+              "Donor-advised fund",
+              "Scholarship programs at universities",
+              "Leadership Academy graduates education support"
+            ],
+            "amount": [
+              "$40-60 million",
+              "$10-15 million"
+            ],
+            "frequency": [
+              "Annually",
+              "Monthly",
+              "Ongoing"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Current",
+              "Current and future"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Philanthropic activities",
+              "Cash position",
+              "Art and collectibles",
+              "Philanthropic initiatives"
+            ],
+            "amount": [
+              "10% of portfolio",
+              "5% of portfolio"
+            ],
+            "frequency": "Ongoing",
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Current",
+              "Current and future"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Support for Oprah Winfrey Leadership Academy graduates",
+              "Travel expenses"
+            ],
+            "amount": "<UNKNOWN>",
+            "frequency": "Frequent",
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "professional_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Harpo Productions operations",
+              "Family office operations",
+              "Leadership Academy in South Africa",
+              "Property maintenance",
+              "Dedicated real estate management team",
+              "Financial advisors team",
+              "Tax advisors",
+              "Harpo Productions operational expenses",
+              "OWN Network operations",
+              "Media investments management",
+              "Apple TV+ partnership expenses",
+              "Financial team (CFO and personal attorney)",
+              "Leadership Academy management",
+              "Foundation operations"
+            ],
+            "amount": "$10-15 million",
+            "frequency": [
+              "Monthly",
+              "Annually",
+              "Ongoing"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": "Oprah Winfrey Leadership Academy for Girls",
+            "amount": "<UNKNOWN>",
+            "frequency": "<UNKNOWN>",
+            "priority": "High",
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "miscellaneous_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Philanthropic activities",
+              "Philanthropic contributions",
+              "Leadership Academy in South Africa",
+              "Family office operations",
+              "Property maintenance",
+              "Personal lifestyle expenses",
+              "Private equity investments",
+              "Public market investments",
+              "Philanthropic initiatives"
+            ],
+            "amount": [
+              "$40-60 million",
+              "$10-15 million",
+              "10% of portfolio",
+              "20% of portfolio"
+            ],
+            "frequency": [
+              "Annually",
+              "Monthly",
+              "Ongoing"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Current",
+              "Current and future"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Support for Oprah Winfrey Leadership Academy graduates",
+              "Art and collectibles",
+              "Cash position",
+              "Travel expenses",
+              "Property maintenance across multiple homes"
+            ],
+            "amount": [
+              "5% of portfolio",
+              "10% of portfolio"
+            ],
+            "frequency": [
+              "Ongoing",
+              "Frequent"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          }
+        ],
+        "notes": [
+          "Client is concerned about 10% cash position being too conservative given inflation concerns",
+          "Client is interested in exploring innovative philanthropic models including impact investing",
+          "Client has established an endowment to ensure long-term sustainability of the Leadership Academy",
+          "Education, particularly for women and girls, remains a priority focus",
+          "Client wants to discuss philanthropic goals in detail in the next meeting",
+          "Public market investments make up about 20%, with a focus on companies aligned with values in education, health, and women's empowerment",
+          "Client maintains about 10% in private equity investments, primarily in technology and media companies",
+          "Client supports various community organizations in Chicago, Mississippi, and Nashville",
+          "Client is looking to streamline real estate holdings while potentially acquiring new properties that better align with current lifestyle",
+          "Client is interested in increasing private investments in women and minority-led businesses",
+          "Client is evaluating properties based on usage, appreciation potential, and maintenance requirements",
+          "Client maintains about 10% in liquid assets - cash equivalents and fixed income investments for operational flexibility",
+          "Client has significant philanthropic interests that are important to her financial planning",
+          "Art, collectibles, and other alternative investments make up approximately 5% of portfolio",
+          "Client is interested in structuring investments to support philanthropic initiatives while ensuring long-term financial sustainability",
+          "Client travels frequently and requires flexible communication methods",
+          "Philanthropy is central to the client's financial planning",
+          "Client considers graduates of the Oprah Winfrey Leadership Academy for Girls as her daughters",
+          "Client is considering acquiring property in Africa to be closer to Leadership Academy"
+        ]
+      }
+    },
+    {
+      "pensions": {
+        "entries": [
+          {
+            "owner": "Client",
+            "policy_number": "<UNKNOWN>",
+            "provider": "Harpo Productions",
+            "type": [
+              "Early Career Pension",
+              "Self-directed IRA",
+              "401(k)",
+              "Defined Benefit Plan"
+            ],
+            "value": [
+              "$35 million",
+              "$18 million",
+              "$5 million annually upon retirement"
+            ]
+          }
+        ],
+        "notes": [
+          "No specific pension information was mentioned in the conversation.",
+          "Client makes strategic contributions to the IRA when advantageous from a tax perspective",
+          "Client is more focused on overall portfolio structure rather than pension arrangements",
+          "No specific pension information was mentioned in the conversation. The client (Oprah Winfrey) discussed various aspects of her wealth, investments, and financial planning, but did not provide details about any pension arrangements.",
+          "Client mentioned having some pension arrangements from early career, but they represent a tiny fraction of retirement planning",
+          "Client views these vehicles as part of legacy planning rather than primary retirement income",
+          "Client is beyond contribution limits for the 401(k)",
+          "These pension accounts represent a relatively small portion of overall wealth structure",
+          "Client doesn't anticipate traditional retirement in the conventional sense",
+          "Pensions are not a significant component of the client's $2.5 billion net worth"
+        ]
+      }
+    },
+    {
+      "savings_investments": {
+        "entries": [
+          {
+            "owner": "Client",
+            "provider": [
+              "Family Office",
+              "Various",
+              "Weight Watchers",
+              "OWN Network",
+              "Apple TV+"
+            ],
+            "type": [
+              "Public Equities",
+              "Real Estate",
+              "Public market investments",
+              "Private equity investments",
+              "Cash equivalents and fixed income investments",
+              "Art and collectibles",
+              "Equity stake",
+              "Business interest",
+              "Media Investment",
+              "Partnership",
+              "Real Estate Portfolio",
+              "Donor-advised funds"
+            ],
+            "value": [
+              "25% of $2.5 billion net worth",
+              "30% of $2.5 billion net worth",
+              "20% of portfolio",
+              "10% of portfolio",
+              "5% of portfolio"
+            ]
+          },
+          {
+            "owner": "Client",
+            "type": [
+              "Private Business Interests",
+              "Alternative Investments",
+              "Fixed Income and Cash"
+            ],
+            "provider": "Various",
+            "value": [
+              "20% of $2.5 billion net worth",
+              "15% of $2.5 billion net worth",
+              "10% of $2.5 billion net worth"
+            ]
+          }
+        ],
+        "notes": [
+          "Additional properties in Colorado and Chicago that are visited less frequently",
+          "Client uses donor-advised funds as part of tax-efficient planning",
+          "Real estate holdings include primary residences in Montecito, California and Maui",
+          "Client is concerned about 10% cash position being too conservative given inflation concerns",
+          "Client has significant media investments including OWN Network and Apple TV+ partnership",
+          "Client has a formal investment policy statement that emphasizes long-term growth, social responsibility, and companies with female leadership",
+          "Alternative investments include private equity, venture capital, and impact investment funds",
+          "Total net worth is approximately $2.5 billion",
+          "Client is looking to streamline real estate holdings and possibly acquire property in Africa",
+          "Public equities portfolio is split with about half managed with ESG considerations",
+          "Limited coordination between investment strategy and philanthropic planning",
+          "Client is interested in increasing private investments in women and minority-led businesses",
+          "Portfolio is managed by three different teams within the family office structure",
+          "Client has a moderate to moderately aggressive risk tolerance for investments",
+          "Client aims for a 70/30 balance between philanthropic giving and capital preservation",
+          "Client is interested in impact investing that generates both financial returns and social good",
+          "Client owns multiple real estate properties in Montecito, Maui, and Colorado",
+          "Business interests through Harpo Productions, OWN Network, and Weight Watchers account for roughly 30% of net worth",
+          "Client interested in better aligning investments with philanthropic goals",
+          "Public market investments focus on companies aligned with values in education, health, and women's empowerment",
+          "Some commercial real estate in Nashville and other residential investment properties",
+          "Private equity investments primarily in technology and media companies"
+        ]
+      }
+    },
+    {
+      "other_assets": {
+        "entries": [
+          {
+            "owner": "Client",
+            "description": [
+              "Montecito property",
+              "Primary residence in Montecito, California",
+              "Property in Maui, Hawaii",
+              "Property in Colorado",
+              "Property in Chicago, Illinois",
+              "Commercial real estate in Nashville",
+              "Various residential investment properties",
+              "Real estate holdings (total)",
+              "Primary residences in Montecito and Maui",
+              "Real estate portfolio (25% of net worth)",
+              "Properties in California, Colorado, Hawaii, and international holdings",
+              "Income-producing commercial properties in Chicago and Nashville",
+              "Art and collectibles",
+              "Montecito residence",
+              "Maui residence",
+              "Colorado residence",
+              "OWN Network",
+              "Apple TV+ partnership"
+            ],
+            "current_value": [
+              "30% of $2.5 billion net worth",
+              "5% of portfolio"
+            ],
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "Maui property",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "Telluride property",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "Chicago property",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "Client is interested in opportunity zone investments that combine returns with impact",
+          "Client is interested in possibly acquiring property in Africa, closer to her Leadership Academy",
+          "Client has significant media investments including OWN Network and Apple TV+ partnership",
+          "Some properties are personal homes while others are selected for long-term appreciation",
+          "Client owns multiple properties across the United States",
+          "Real estate represents approximately 30% of the client's $2.5 billion net worth",
+          "Additional property in Maui, Hawaii at 652 Hana Highway, Kula, HI 96790",
+          "Property in Colorado at 60 Mountain View Drive, Telluride, CO 81435",
+          "Client is considering consolidation of some properties as travel patterns have changed",
+          "Real estate represents about 25% of client's net worth",
+          "Client is concerned about capital gains implications of selling appreciated properties",
+          "Client has a dedicated real estate management team of five professionals",
+          "Portfolio includes commercial real estate in Nashville and other residential investment properties",
+          "Client is evaluating properties based on usage, appreciation potential, and maintenance requirements",
+          "Property in Chicago at 1100 North Lake Shore Drive, Chicago, IL 60611",
+          "Properties are owned through a mix of personal ownership, LLCs, and a family trust",
+          "Client owns multiple real estate properties in Montecito, Maui, and Colorado that are special to her",
+          "Art, collectibles, and other alternative investments make up approximately 5% of portfolio",
+          "Primary residence is in Montecito, California at 65 Promised Land Road, Montecito, CA 93108",
+          "Client maintains income-producing commercial properties particularly in Chicago and Nashville",
+          "Additional homes in Colorado and Chicago that are visited less frequently",
+          "Client has properties in California, Colorado, Hawaii, and international holdings",
+          "Client is considering divesting some properties that she rarely visits",
+          "Client wants her real estate portfolio to reflect her actual lifestyle and values",
+          "Properties include primary residences in Montecito, California and Maui that are used regularly"
+        ]
+      }
+    },
+    {
+      "loans_mortgages": {
+        "entries": [
+          {
+            "owner": "Client",
+            "type": [
+              "Strategic mortgages",
+              "Residential Mortgage",
+              "Charitable remainder trusts",
+              "Real Estate"
+            ],
+            "provider": "<UNKNOWN>",
+            "monthly_cost": "<UNKNOWN>",
+            "outstanding_value": "Portion of $50 million total liabilities",
+            "interest_rate": "<UNKNOWN>",
+            "special_rate": "Maintained for tax advantages rather than necessity",
+            "final_payment": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "Client owns multiple properties including primary residences in Montecito and Maui",
+          "Primarily consisting of strategic mortgages on properties maintained for tax advantages",
+          "Properties are owned through a mix of personal ownership, LLCs, and a family trust",
+          "No specific loan or mortgage details were provided in the conversation. The client (Oprah Winfrey) mentioned owning multiple properties in Montecito, Maui, and Colorado, but did not specify if there are any mortgages on these properties. She discussed potentially divesting some properties and acquiring new ones (possibly in Africa), but did not mention any financing arrangements or outstanding loans.",
+          "Client has minimal liabilities relative to asset base - approximately $50 million total",
+          "No specific information about loans or mortgages was mentioned in the conversation.",
+          "No specific mortgage details were provided in the conversation",
+          "Client's real estate represents about 25% of net worth, including properties in California, Colorado, Hawaii, and international holdings",
+          "Client has established several charitable remainder trusts that provide income now while directing assets to specific causes later",
+          "Client has been conservative about debt throughout her career"
+        ]
+      }
+    }
+  ],
+  "health_details": [
+    {
+      "client": {
+        "current_state_of_health": "Good",
+        "state_of_health_explanation": [
+          "Client appears to be in good health based on the conversation, though specific health details are not directly discussed.",
+          "No specific health issues mentioned, but client appears to be in good health based on active involvement in business and philanthropic activities",
+          "No specific health issues were mentioned in the conversation, but the client appears to be in good health based on her active lifestyle, travel plans, and long-term planning."
+        ],
+        "smoker": "No",
+        "cigarettes_per_day": "<UNKNOWN>",
+        "smoker_since": "<UNKNOWN>",
+        "long_term_care_needed": "No",
+        "long_term_care_explanation": "<UNKNOWN>",
+        "will": "Yes",
+        "information_about_will": [
+          "Client mentions extensive estate planning and wrestling with the balance between providing for loved ones and directing most assets to philanthropic purposes",
+          "The client has an estate plan that includes a revocable living trust, various charitable components, and provisions for key people in her life. It was last comprehensively updated about five years ago with some minor amendments since then. She feels it may not fully reflect her current thinking about legacy and impact and wants to ensure it's structured to minimize administrative complications while maximizing resources for her intended purposes."
+        ],
+        "power_of_attorney": "Yes",
+        "details_of_individual_with_power_of_attorney": [
+          "Client has trusted presidents running day-to-day operations of her businesses while she remains strategically involved in major decisions",
+          "While not explicitly stated, the client mentions working with a personal attorney who is likely involved in her power of attorney arrangements as part of her comprehensive estate planning."
+        ],
+        "notes": [
+          "Client has a half-sister Patricia and had another half-sister Patricia Lee Lloyd who passed away in 2003",
+          "She's particularly interested in governance structures that will ensure her philanthropic entities stay true to her vision after she's gone.",
+          "Client maintains strategic role at OWN Network as partner with Discovery",
+          "Client has a longtime partner, Stedman Graham (not legally married)",
+          "The client (Oprah Winfrey) has been in a long-term relationship with Stedman Graham for over 30 years, though they never married.",
+          "Client is the Chairwoman and CEO of Harpo Productions",
+          "Client's father Vernon Winfrey passed away in 2022",
+          "She considers the graduates of her Leadership Academy in South Africa as her daughters and provides ongoing financial support for their education and professional development.",
+          "She wants to update her estate plan within the next six months to better reflect her current thinking about legacy and impact.",
+          "Client is Oprah Winfrey, born January 29, 1954",
+          "Client's mother Vernita Lee passed away in 2018",
+          "Client is very close to her friend Gayle King, whom she considers family",
+          "Client is on the board at Weight Watchers as investor and brand ambassador",
+          "Client has a diverse portfolio of professional activities",
+          "She works closely with a long-time personal financial team, including her CFO and personal attorney for financial decisions.",
+          "Client serves on the board at Apple for streaming content initiatives",
+          "Client has a conservative approach to health and lifestyle based on overall financial approach",
+          "She travels frequently and requires flexible communication methods.",
+          "Client focuses on content development projects, philanthropic work, and strategic business decisions",
+          "No health details were discussed in the conversation",
+          "Client's goal is creating a sustainable philanthropic ecosystem that continues long after she's gone",
+          "Client considers graduates of the Oprah Winfrey Leadership Academy for Girls as her daughters",
+          "She's interested in creating more structured trusts or foundations specifically for their continued education and professional development.",
+          "Client is concerned about potential tax law changes and whether current structures are optimally positioned",
+          "Client has delegated day-to-day operations to executive team",
+          "Client has done extensive estate planning",
+          "Client has created separate endowments for Leadership Academy in South Africa and scholarship programs at several universities",
+          "Client has established several charitable remainder trusts that provide income now while directing assets to specific causes later"
+        ]
+      }
+    },
+    {
+      "protection_policies": {
+        "entries": [
+          {
+            "owner": "Client",
+            "type": [
+              "Defined Benefit Plan",
+              "Charitable remainder trusts",
+              "Estate Plan"
+            ],
+            "provider": "<UNKNOWN>",
+            "monthly_cost": "<UNKNOWN>",
+            "amount_assured": "$5 million annually upon full retirement",
+            "in_trust": "Yes",
+            "assured_until": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "The client has a revocable living trust as part of her estate plan",
+          "Client's goal is creating a sustainable philanthropic ecosystem that continues long after she's gone",
+          "No protection policies were mentioned in the conversation.",
+          "No specific protection policies were mentioned in the conversation. The client, Ms. Oprah Winfrey, discussed her professional activities, income structure, net worth, real estate holdings, and philanthropic endeavors, but did not provide any information about life insurance, critical illness coverage, or other protection policies.",
+          "The client uses donor-advised funds as part of her tax planning strategy",
+          "The estate plan was last comprehensively updated about five years ago with some minor amendments since then",
+          "Client views these vehicles as part of legacy planning rather than primary retirement income",
+          "The client is concerned about estate taxes potentially limiting what she can leave to her foundations and people she cares about",
+          "Client has a defined benefit plan structured to provide about $5 million annually upon full retirement",
+          "The client wants to update her estate plan within the next six months",
+          "The client is Oprah Winfrey who has expressed interest in discussing philanthropic goals and investment structures in a future meeting, but no specific protection policies were discussed.",
+          "The client is particularly interested in governance structures that will ensure her philanthropic entities stay true to her vision",
+          "Client has created separate endowments for Leadership Academy in South Africa and scholarship programs at several universities",
+          "Client has established several charitable remainder trusts that provide income now while directing assets to specific causes later",
+          "Client doesn't anticipate traditional retirement in the conventional sense"
+        ]
+      }
+    }
+  ],
+  "objectives": [
+    {
+      "objectives_extractor": {
+        "entries": [
+          {
+            "category": [
+              "Philanthropy",
+              "Financial"
+            ],
+            "description": [
+              "Client wants to structure investments to support philanthropic initiatives while ensuring long-term financial sustainability",
+              "Optimize cash position (currently 10%) to balance liquidity needs with inflation protection"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Ongoing",
+              "Short-term"
+            ],
+            "additional_notes": [
+              "Client considers graduates of the Oprah Winfrey Leadership Academy for Girls as her daughters and maintains close relationships with many of them",
+              "Client is concerned that 10% cash position may be too conservative given inflation concerns, though values the flexibility it provides"
+            ]
+          },
+          {
+            "category": "Investment",
+            "description": [
+              "Client wants to optimize her portfolio and ensure investments align with her values and long-term vision",
+              "Increase private investments in women and minority-led businesses"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Long-term",
+              "Medium-term"
+            ],
+            "additional_notes": [
+              "Client is looking for a wealth advisor to help navigate her financial situation and plan for the future",
+              "Client hasn't found efficient vehicles that meet criteria for both impact and returns; interested in both fund options and direct investment opportunities with appropriate governance structures"
+            ]
+          },
+          {
+            "category": [
+              "Financial Planning",
+              "Tax Planning"
+            ],
+            "description": [
+              "Client is seeking comprehensive wealth management services to navigate her financial situation",
+              "Optimize tax structures across multiple jurisdictions"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Current and ongoing",
+              "Ongoing"
+            ],
+            "additional_notes": [
+              "Client has a financial director who will join future meetings to ensure alignment across her financial team",
+              "Client is concerned about potential tax law changes and whether current structures are optimally positioned; assets span multiple countries"
+            ]
+          },
+          {
+            "category": [
+              "Philanthropy",
+              "Estate Planning"
+            ],
+            "description": [
+              "Client wants to discuss philanthropic goals in detail and how to structure giving more efficiently",
+              "Balance providing for loved ones while directing most assets to philanthropic purposes"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Immediate (next meeting)",
+              "Long-term"
+            ],
+            "additional_notes": [
+              "Client will come prepared with specific questions about efficient philanthropic giving structures",
+              "Client continues to wrestle with this balance despite having done extensive estate planning"
+            ]
+          },
+          {
+            "category": [
+              "Privacy",
+              "Philanthropy"
+            ],
+            "description": [
+              "Client values privacy and security of personal information due to her public profile",
+              "Create a sustainable philanthropic ecosystem that continues long after client is gone"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Ongoing",
+              "Long-term"
+            ],
+            "additional_notes": [
+              "Client may have her legal team review privacy policy and data handling agreements",
+              "Client uses multiple vehicles including foundation, charitable remainder trusts, donor-advised funds, and separate endowments; interested in structures that balance perpetuity with immediate impact"
+            ]
+          },
+          {
+            "category": [
+              "Investment",
+              "Investment Management"
+            ],
+            "description": [
+              "Explore impact investing opportunities that align portfolio with mission",
+              "Identify blind spots or emerging opportunities not currently on client's radar"
+            ],
+            "priority": "Medium",
+            "timeframe": [
+              "Ongoing",
+              "Short-term"
+            ],
+            "additional_notes": [
+              "Client wants to align more of portfolio with mission through impact investing",
+              "Client values fresh perspectives that challenge established thinking of her current team"
+            ]
+          },
+          {
+            "category": "Investment",
+            "description": "Maintain investment strategies that don't require day-to-day involvement but allow for strategic input",
+            "priority": "High",
+            "timeframe": "Ongoing",
+            "additional_notes": "Client wants to contribute beyond just capital without operational demands"
+          }
+        ]
+      }
+    }
+  ]
+}

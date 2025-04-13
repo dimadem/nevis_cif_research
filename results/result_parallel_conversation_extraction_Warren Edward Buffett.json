@@ -1,0 +1,1716 @@
+[
+  {
+    "id": 1,
+    "dialog_stage": "initial_contact_phase_template",
+    "client_name": "Warren Edward Buffett",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Mr.",
+            "first_name": "Warren",
+            "middle_names": "Edward",
+            "last_name": "Buffett",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "30/08/1930",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "United States",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "<UNKNOWN>",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "(402) 346-1400",
+            "email_address": "warren@berkshirehathaway.com"
+          }
+        },
+        {
+          "current_address": {
+            "house_name_number": "5505",
+            "street_name": "Farnam Street",
+            "town_city": "Omaha",
+            "county": "Nebraska",
+            "postcode": "68132",
+            "country": "United States",
+            "ownership_status": "Owner",
+            "move_in_date": "1958",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "<UNKNOWN>",
+                "county": "<UNKNOWN>",
+                "country": "<UNKNOWN>",
+                "postcode": "<UNKNOWN>",
+                "ownership_status": "<UNKNOWN>",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "<UNKNOWN>",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "United States",
+            "resident_for_tax": "United States",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "Business Executive",
+            "employer": "Berkshire Hathaway",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Client is Warren Edward Buffett, a prominent investor and businessman",
+              "Has an office phone number (402) 346-1400",
+              "Email is warren@berkshirehathaway.com",
+              "Appears to be in a senior position at Berkshire Hathaway",
+              "Has significant investments and philanthropic commitments",
+              "Follows value investing principles"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Business Executive Income",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client is Warren Edward Buffett, a prominent investor and businessman",
+              "Client is employed at Berkshire Hathaway as a Business Executive",
+              "Client has significant investments and holdings but specific income amounts are not mentioned",
+              "Client has philanthropic commitments that are important to his financial planning",
+              "Client follows value investing principles and is interested in balancing growth with responsible giving"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": []
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "name": "Primary residence",
+                "amount": "$31,500 (purchase price in 1958)",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Since 1958"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "name": "<UNKNOWN>",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "name": "Primary residence",
+                "amount": "$31,500 (purchase price in 1958)",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Since 1958"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "name": "Office expenses",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "name": "Philanthropic commitments",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "policy_number": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "value": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "provider": "Berkshire Hathaway",
+                "type": "Company Shares",
+                "value": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "description": "Primary residence in Omaha",
+                "current_value": "<UNKNOWN>",
+                "original_value": "$31,500"
+              }
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Warren Edward Buffett",
+                "type": "Residential Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Mr. Buffett purchased his primary residence at 5505 Farnam Street, Omaha, Nebraska in 1958 for $31,500. No specific mortgage details were mentioned in the conversation."
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "<UNKNOWN>",
+            "information_about_will": "<UNKNOWN>",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "Client is Warren Edward Buffett, born August 30, 1930",
+              "Client has lived at the same address (5505 Farnam Street, Omaha, Nebraska 68132) since 1958",
+              "No health-related information was provided in the conversation"
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [],
+            "notes": [
+              "No protection policies information was provided in the conversation",
+              "The client is Warren Edward Buffett, born August 30, 1930",
+              "The conversation focused on initial onboarding and personal information collection, not on protection policies"
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {
+            "entries": [
+              {
+                "category": "Financial",
+                "description": "Looking for wealth management services to navigate financial situation and plan for the future",
+                "priority": "High",
+                "timeframe": "<UNKNOWN>",
+                "additional_notes": "Client is open to suggestions on portfolio optimization"
+              },
+              {
+                "category": "Investment",
+                "description": "Ensure investments align with personal values and long-term vision",
+                "priority": "High",
+                "timeframe": "Long-term",
+                "additional_notes": "Client has specific goals in mind but hasn't detailed them yet"
+              },
+              {
+                "category": "Philanthropic",
+                "description": "Balance portfolio growth with responsible giving and philanthropic commitments",
+                "priority": "High",
+                "timeframe": "<UNKNOWN>",
+                "additional_notes": "Client has significant philanthropic components to their portfolio and wants to balance growth with responsible giving"
+              },
+              {
+                "category": "Investment Philosophy",
+                "description": "Believes in making decisions based on fundamentals and long-term value",
+                "priority": "Medium",
+                "timeframe": "Long-term",
+                "additional_notes": "Interested in how AI tools might enhance his investment philosophy rather than chasing trends"
+              },
+              {
+                "category": "Communication",
+                "description": "Prefers email communication over phone calls",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "Email: warren@berkshirehathaway.com; Phone: (402) 346-1400; Assistant monitors communications"
+              },
+              {
+                "category": "Data Privacy",
+                "description": "Concerned about data retention policies and third-party sharing",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "Satisfied with the firm's 7-year retention policy and limited third-party sharing approach"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 76.68045568466187,
+      "input_tokens": 93057,
+      "output_tokens": 3340,
+      "total_tokens": 96397,
+      "api_calls": 19
+    }
+  },
+  {
+    "id": 2,
+    "dialog_stage": "professional_information_and_income_details_phase_template",
+    "client_name": "Warren Edward Buffett",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Mr.",
+            "first_name": "Warren",
+            "middle_names": "Edward",
+            "last_name": "Buffett",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "<UNKNOWN>",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "<UNKNOWN>",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "<UNKNOWN>",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "<UNKNOWN>",
+            "email_address": "<UNKNOWN>"
+          }
+        },
+        {
+          "current_address": {
+            "house_name_number": "Same house purchased in 1958",
+            "street_name": "<UNKNOWN>",
+            "town_city": "Omaha",
+            "county": "<UNKNOWN>",
+            "postcode": "<UNKNOWN>",
+            "country": "<UNKNOWN>",
+            "ownership_status": "Owner",
+            "move_in_date": "1958",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "house_name_number": "Same house purchased in 1958",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Omaha",
+                "county": "<UNKNOWN>",
+                "country": "<UNKNOWN>",
+                "postcode": "<UNKNOWN>",
+                "ownership_status": "Owner",
+                "move_in_date": "1958",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "Susan Alice Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              },
+              {
+                "Name": "Howard Graham Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              },
+              {
+                "Name": "Peter Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "<UNKNOWN>",
+            "resident_for_tax": "<UNKNOWN>",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Employed",
+            "desired_retirement_age": "No plans to retire",
+            "occupation": "Chairman and CEO",
+            "employer": "Berkshire Hathaway",
+            "employment_started": "1970",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Has been Chairman and CEO of Berkshire Hathaway since 1970, though involvement with the company began in the 1960s",
+              "Also serves on several boards, though has reduced those commitments in recent years to focus on Berkshire and philanthropy",
+              "Professional situation is quite stable with no plans to retire",
+              "Receives a modest salary of $100,000 annually from Berkshire Hathaway",
+              "Majority of wealth is in Berkshire Hathaway stock",
+              "Has pledged to give away over 99% of wealth to philanthropy",
+              "Lives in the same house in Omaha purchased in 1958"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Salary from Berkshire Hathaway",
+                "amount": "100,000",
+                "frequency": "Annually",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Dividends from personal investments",
+                "amount": "Several hundred million dollars",
+                "frequency": "Annually",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Interest from bonds and fixed-income investments",
+                "amount": "<UNKNOWN>",
+                "frequency": "Annually",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "Client has kept his salary at the same modest level for decades",
+              "The majority of his wealth is in Berkshire Hathaway stock, which he doesn't regularly sell",
+              "He doesn't take dividends from Berkshire Hathaway as the company has never paid them under his leadership",
+              "Investment income varies with market conditions but typically generates several hundred million dollars annually",
+              "He reinvests the vast majority of his investment income",
+              "His personal living expenses are minimal relative to his means",
+              "He makes substantial annual donations of Berkshire shares, typically billions in value each year",
+              "Most of his consumption comes through Berkshire, where certain expenses like security and travel are corporate necessities"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Mortgage on Omaha home",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Since 1958"
+              }
+            ]
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Omaha home",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Since 1958"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "No specific motoring expenses mentioned",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Living expenses",
+                "amount": "Minimal relative to means",
+                "frequency": "Monthly",
+                "priority": "High",
+                "timeframe": "Ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Omaha home expenses",
+                "amount": "<UNKNOWN>",
+                "frequency": "Monthly",
+                "priority": "High",
+                "timeframe": "Since 1958"
+              },
+              {
+                "owner": "Client",
+                "name": "Cash for personal expenses",
+                "amount": "Modest amount",
+                "frequency": "As needed",
+                "priority": "Medium",
+                "timeframe": "Ongoing"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Chairman and CEO salary at Berkshire Hathaway",
+                "amount": "$100,000",
+                "frequency": "Annually",
+                "priority": "Low",
+                "timeframe": "Since 1970"
+              },
+              {
+                "owner": "Client",
+                "name": "Corporate expenses (security, travel)",
+                "amount": "<UNKNOWN>",
+                "frequency": "As needed",
+                "priority": "Medium",
+                "timeframe": "Ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Board membership commitments",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Reduced in recent years"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Philanthropic donations",
+                "amount": "Billions in value each year",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Ongoing, structured schedule"
+              },
+              {
+                "owner": "Client",
+                "name": "Security and travel expenses",
+                "amount": "<UNKNOWN>",
+                "frequency": "As needed",
+                "priority": "Medium",
+                "timeframe": "Ongoing as corporate necessities"
+              },
+              {
+                "owner": "Client",
+                "name": "Treasury bills and municipal bonds",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Ongoing for liquidity"
+              }
+            ],
+            "notes": [
+              "Client maintains a modest amount of cash for personal expenses",
+              "Client has pledged to give away over 99% of wealth",
+              "Client's personal living expenses are minimal relative to means",
+              "Client has a simple financial structure with no complex assets like art collections, vacation properties, or yachts",
+              "Client's non-Berkshire investments are primarily fixed-income securities chosen for safety rather than return"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "policy_number": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "type": "No traditional pension",
+                "value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client doesn't have a traditional pension arrangement",
+              "Retirement security comes from Berkshire Hathaway holdings and other investments",
+              "Client has no plans to retire and continues to work as Chairman and CEO of Berkshire Hathaway",
+              "Client doesn't focus on conventional retirement planning"
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Berkshire Hathaway stock",
+                "provider": "Berkshire Hathaway",
+                "value": "Approximately $100 billion"
+              },
+              {
+                "owner": "Client",
+                "type": "Treasury bills",
+                "provider": "U.S. Treasury",
+                "value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Municipal bonds",
+                "provider": "<UNKNOWN>",
+                "value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Fixed-income securities",
+                "provider": "<UNKNOWN>",
+                "value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Berkshire Hathaway holdings represent approximately 99% of client's net worth",
+              "Client maintains a modest amount of cash for personal expenses",
+              "Non-Berkshire investments are primarily fixed-income securities chosen for safety rather than return",
+              "Client has already donated roughly half of his Berkshire shares to philanthropy",
+              "The remainder of Berkshire holdings is committed to philanthropy in the future",
+              "Client's investment approach emphasizes simplicity and transparency"
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "Omaha home",
+                "current_value": "perhaps $1 million",
+                "original_value": "$31,500"
+              }
+            ],
+            "notes": [
+              "Client has deliberately kept personal balance sheet simple",
+              "Client owns no art collections, vacation properties, yachts, or other luxury assets",
+              "Client's Berkshire Hathaway holdings represent approximately 99% of net worth, valued around $100 billion",
+              "Client maintains a modest amount of cash for personal expenses",
+              "Client still lives in the same house purchased in Omaha in 1958"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Residential Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client still lives in the same house purchased in Omaha in 1958 for $31,500, now worth approximately $1 million",
+              "Client maintains a simple financial structure with minimal debt",
+              "No specific mortgage details were provided in the conversation"
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "<UNKNOWN>",
+            "information_about_will": "The client has established a framework for how his estate will be handled after his lifetime, with the vast majority going to philanthropy.",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": "[\"The client is Warren Buffett, Chairman and CEO of Berkshire Hathaway since 1970.\", \"The client has pledged to give away over 99% of his wealth to philanthropy.\", \"The client maintains a modest lifestyle despite his substantial wealth.\", \"The client still lives in the same house he bought in Omaha in 1958.\", \"The client has no plans to retire and continues to work as he enjoys what he does.\", \"The client has already donated roughly half of his Berkshire shares to philanthropy, with the remainder committed to follow.\""
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "The client (Warren Buffett) has not mentioned any specific protection policies in the conversation.",
+              "The client's wealth is primarily in Berkshire Hathaway stock (approximately 99% of net worth, valued around $100 billion).",
+              "The client has already donated roughly half of his Berkshire shares to philanthropy, with the remainder committed to follow.",
+              "The client maintains a modest lifestyle despite substantial wealth and lives in the same house purchased in 1958."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {
+            "entries": [
+              {
+                "category": "Career",
+                "description": "Continue as Chairman and CEO of Berkshire Hathaway with no plans to retire",
+                "priority": "High",
+                "timeframe": "Ongoing, long-term",
+                "additional_notes": "Has been in position since 1970 and still enjoys the work; plans to continue as long as he's effective"
+              },
+              {
+                "category": "Income",
+                "description": "Maintain modest salary ($100,000) with primary income from personal investments outside Berkshire Hathaway",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "Investment income typically generates several hundred million dollars annually; majority is reinvested"
+              },
+              {
+                "category": "Lifestyle",
+                "description": "Maintain modest living expenses and simple lifestyle",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "Still lives in same house purchased in 1958; minimal personal expenses relative to wealth"
+              },
+              {
+                "category": "Philanthropy",
+                "description": "Continue structured annual donations of Berkshire shares to foundations",
+                "priority": "High",
+                "timeframe": "Annual donations, ongoing",
+                "additional_notes": "Has pledged to give away over 99% of wealth; makes annual donations worth billions primarily to Gates Foundation and family foundations"
+              },
+              {
+                "category": "Philanthropy",
+                "description": "Optimize philanthropic impact through strategic timing of donations",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Seeking balance between immediate giving and allowing assets to grow for potentially greater future impact; concerned with organizational capacity to effectively deploy capital"
+              },
+              {
+                "category": "Estate Planning",
+                "description": "Execute established framework for estate distribution after lifetime",
+                "priority": "Medium",
+                "timeframe": "Long-term",
+                "additional_notes": "Has already established how estate will be handled, with vast majority going to philanthropy over a defined period"
+              },
+              {
+                "category": "Investment",
+                "description": "Maintain simple, transparent investment approach focused on long-term value",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "99% of net worth in Berkshire Hathaway stock; remainder primarily in Treasury bills and municipal bonds for safety and liquidity"
+              },
+              {
+                "category": "Financial Planning",
+                "description": "Ensure sufficient liquidity for philanthropic commitments without disrupting Berkshire holdings",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "Maintains enough cash and liquid investments for personal requirements; primary planning consideration is liquidity for philanthropic commitments"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 105.8886923789978,
+      "input_tokens": 126585,
+      "output_tokens": 5158,
+      "total_tokens": 131743,
+      "api_calls": 19
+    }
+  },
+  {
+    "id": 3,
+    "dialog_stage": "pension_plans_and_asset_structure_phase_template",
+    "client_name": "Warren Edward Buffett",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Mr.",
+            "first_name": "Warren",
+            "middle_names": "Edward",
+            "last_name": "Buffett",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "<UNKNOWN>",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "<UNKNOWN>",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "<UNKNOWN>",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "<UNKNOWN>",
+            "email_address": "<UNKNOWN>"
+          }
+        },
+        {
+          "current_address": {
+            "ownership_status": "Owner",
+            "postcode": "<UNKNOWN>",
+            "house_name_number": "<UNKNOWN>",
+            "street_name": "<UNKNOWN>",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>",
+            "town_city": "Omaha",
+            "county": "<UNKNOWN>",
+            "country": "<UNKNOWN>",
+            "move_in_date": "1958"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Omaha",
+                "county": "<UNKNOWN>",
+                "country": "<UNKNOWN>",
+                "move_in_date": "1958",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "Susie Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              },
+              {
+                "Name": "Howard Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              },
+              {
+                "Name": "Peter Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "United States",
+            "resident_for_tax": "United States",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "CEO/Chairman",
+            "employer": "Berkshire Hathaway",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Lives in the same house in Omaha purchased in 1958 for $31,500",
+              "Has named Greg Abel as successor CEO at Berkshire Hathaway",
+              "Is well into his 90s",
+              "Maintains approximately $1 billion in Treasury bills for liquidity",
+              "99% of net worth is in Berkshire Hathaway stock",
+              "Has pledged to give away over 99% of wealth to philanthropy",
+              "Participates minimally in Berkshire's 401(k) plan (valued at approximately $3 million)"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Berkshire Hathaway stock",
+                "amount": "99% of net worth",
+                "frequency": "Ongoing",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Treasury bills",
+                "amount": "$1 billion",
+                "frequency": "Ongoing",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "401(k) plan",
+                "amount": "$3 million",
+                "frequency": "Accumulated",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Personal investments",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "Client maintains approximately $1 billion in Treasury bills for liquidity purposes",
+              "99% of net worth is in Berkshire Hathaway stock",
+              "401(k) participation is minimal and valued at approximately $3 million",
+              "Has made some personal investments in companies like Bank of America",
+              "Lives in the same house purchased in 1958 for $31,500",
+              "Has pledged to give away over 99% of wealth to philanthropy",
+              "Makes annual contributions of 5% of pledged Berkshire shares to foundations",
+              "Does not use conventional hedging strategies or complex risk management instruments"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Treasury bills",
+                "amount": "$1 billion",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "House in Omaha",
+                "amount": "$31,500",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Since 1958"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Car",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Treasury bills",
+                "amount": "$1 billion",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "401(k)",
+                "amount": "$3 million",
+                "frequency": "<UNKNOWN>",
+                "priority": "Low",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Annual philanthropic donations",
+                "amount": "5% of remaining pledged Berkshire B shares",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Ongoing"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Berkshire Hathaway business operations",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Philanthropic donations",
+                "amount": "5% of remaining pledged Berkshire B shares",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Donations to Gates Foundation",
+                "amount": "<UNKNOWN>",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Donations to family foundations",
+                "amount": "<UNKNOWN>",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Ongoing"
+              }
+            ],
+            "notes": [
+              "Client has pledged to give away over 99% of wealth",
+              "Donations are made each summer following a systematic approach",
+              "Largest portion of donations goes to the Gates Foundation",
+              "Four family foundations also receive annual contributions",
+              "Client follows a formula where 5% of remaining pledged shares are donated each year"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "policy_number": "<UNKNOWN>",
+                "provider": "Berkshire Hathaway",
+                "type": "401(k)",
+                "value": "$3 million"
+              }
+            ],
+            "notes": [
+              "Client participates minimally in Berkshire Hathaway's standard 401(k) plan",
+              "Client views Berkshire Hathaway itself as his primary pension plan",
+              "The 401(k) represents a very small portion of client's overall wealth",
+              "Client has consistently reinvested earnings back into Berkshire Hathaway rather than traditional retirement vehicles"
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Treasury bills",
+                "provider": "U.S. Treasury",
+                "value": "$1 billion"
+              },
+              {
+                "owner": "Client",
+                "type": "Stocks",
+                "provider": "Berkshire Hathaway",
+                "value": "99% of net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Stocks",
+                "provider": "Bank of America",
+                "value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client maintains approximately $1 billion in Treasury bills for liquidity purposes",
+              "Berkshire Hathaway stock comprises roughly 99% of client's net worth",
+              "Client has made some personal investments in companies like Bank of America before Berkshire took positions",
+              "Client follows a philosophy of keeping investments simple and concentrated",
+              "Client maintains Treasury bills as a practical buffer for liquidity regardless of market conditions",
+              "Client does not use conventional hedging strategies or complex risk management instruments"
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "House in Omaha",
+                "current_value": "<UNKNOWN>",
+                "original_value": "$31,500"
+              },
+              {
+                "owner": "Client",
+                "description": "Berkshire Hathaway stock",
+                "current_value": "99% of net worth",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Treasury bills",
+                "current_value": "$1 billion",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Bank of America stock",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client still lives in the same house purchased in 1958 for $31,500",
+              "Berkshire Hathaway stock comprises roughly 99% of client's net worth",
+              "Client maintains approximately $1 billion in Treasury bills for liquidity purposes",
+              "Client has made some personal investments in companies like Bank of America",
+              "Client follows a philosophy of keeping investments simple and concentrated",
+              "Client has pledged to give away over 99% of wealth to philanthropic causes"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Residential Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client still lives in the same house purchased in 1958 for $31,500",
+              "No specific mortgage information was mentioned in the conversation",
+              "Given the client's wealth and the fact that he purchased the house in 1958, it's likely the mortgage has been paid off long ago"
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "Yes",
+            "information_about_will": "The client has a comprehensive will that directs any assets not specifically allocated to philanthropy during his lifetime to flow to foundations upon his death. The will is periodically reviewed to ensure it reflects current intentions and legal frameworks. It's designed to minimize administrative complexity and potential disputes while maximizing social benefit.",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "The client is Warren Buffett, who is 'well into his 90s' as mentioned in the conversation.",
+              "He lives in the same house in Omaha that he purchased in 1958 for $31,500.",
+              "He has pledged to give away over 99% of his wealth to philanthropy, with the largest portion going to the Gates Foundation.",
+              "He has established clear succession plans at Berkshire Hathaway with Greg Abel named as his successor as CEO.",
+              "His estate planning includes arrangements for orderly disposition of Berkshire shares over time rather than sudden liquidation."
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "The client (Warren Buffett) does not mention any specific protection policies in the conversation.",
+              "The client maintains approximately $1 billion in Treasury bills for liquidity purposes, but this is not a protection policy.",
+              "The client's wealth is primarily (99%) in Berkshire Hathaway stock.",
+              "The client has philanthropic commitments where he donates 5% of pledged Berkshire shares annually to foundations.",
+              "The client does not believe in conventional hedging strategies or complex risk management instruments.",
+              "The client focuses on understanding businesses deeply and investing with significant margins of safety rather than using protection policies."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {}
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 107.06406617164612,
+      "input_tokens": 113786,
+      "output_tokens": 5529,
+      "total_tokens": 119315,
+      "api_calls": 19
+    }
+  },
+  {
+    "id": 4,
+    "dialog_stage": "regulatory_checks_and_kyc_template",
+    "client_name": "Warren Edward Buffett",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Mr.",
+            "first_name": "Warren",
+            "middle_names": "Edward",
+            "last_name": "Buffett",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "<UNKNOWN>",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "<UNKNOWN>",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "Married",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "<UNKNOWN>",
+            "email_address": "<UNKNOWN>"
+          }
+        },
+        {
+          "current_address": {
+            "ownership_status": "Owner",
+            "postcode": "<UNKNOWN>",
+            "house_name_number": "<UNKNOWN>",
+            "street_name": "<UNKNOWN>",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>",
+            "town_city": "<UNKNOWN>",
+            "county": "<UNKNOWN>",
+            "country": "<UNKNOWN>",
+            "move_in_date": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "ownership_status": "<UNKNOWN>",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "<UNKNOWN>",
+                "county": "<UNKNOWN>",
+                "country": "<UNKNOWN>",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "Susie Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              },
+              {
+                "Name": "Howard Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              },
+              {
+                "Name": "Peter Buffett",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "<UNKNOWN>",
+            "resident_for_tax": "<UNKNOWN>",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "Chairman/CEO",
+            "employer": "Berkshire Hathaway",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Client is Warren Buffett, who leads Berkshire Hathaway",
+              "Client has a dual focus on Berkshire's business success and personal philanthropic goals",
+              "Client has pledged to give away over 99% of his wealth",
+              "Client maintains a distinction between Berkshire assets (which belong to shareholders) and personal philanthropic funds",
+              "Client is focused on leadership succession planning at Berkshire Hathaway"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Berkshire Hathaway",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client is Warren Buffett, CEO/Chairman of Berkshire Hathaway",
+              "Client has pledged to give away over 99% of his wealth to philanthropy",
+              "Client maintains a distinction between Berkshire assets (which belong to shareholders) and personal philanthropic funds",
+              "Client has a modest lifestyle with needs well-covered",
+              "Client maintains significant liquidity for philanthropic opportunities",
+              "Client's wealth is structured with some assets already earmarked for specific philanthropic purposes and others still in the decision pipeline",
+              "Client prefers quarterly comprehensive financial reviews"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "<UNKNOWN>",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "<UNKNOWN>",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "<UNKNOWN>",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Lifestyle needs",
+                "amount": "Modest",
+                "frequency": "Ongoing",
+                "priority": "Low",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Philanthropic distributions",
+                "amount": "99% of wealth",
+                "frequency": "Measured approach",
+                "priority": "High",
+                "timeframe": "During lifetime and within 10 years after estate settlement"
+              },
+              {
+                "owner": "Client",
+                "name": "Foundation funding",
+                "amount": "<UNKNOWN>",
+                "frequency": "Regular",
+                "priority": "High",
+                "timeframe": "Ongoing with long-term planning"
+              },
+              {
+                "owner": "Client",
+                "name": "Document sharing platforms",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Security and cybersecurity measures",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Document sharing platforms",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Security and cybersecurity measures",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Coordination meetings with estate attorneys, tax advisors, and foundation leadership",
+                "amount": "<UNKNOWN>",
+                "frequency": "Regular",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Document sharing platforms",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Security and cybersecurity measures",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Coordination meetings with estate attorneys, tax advisors, and foundation leadership",
+                "amount": "<UNKNOWN>",
+                "frequency": "Regular",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "Client prioritizes simplicity and transparency in financial management",
+              "Client prefers quarterly comprehensive reviews with exception-based alerts for material changes",
+              "Client values security and has concerns about cybersecurity risks given his profile",
+              "Client seeks better integration between personal planning and foundation funding models"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "value": "<UNKNOWN>",
+                "policy_number": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client has not provided specific information about personal pensions in the conversation",
+              "Client's focus is primarily on philanthropy with 99% of wealth pledged to foundations",
+              "Client mentions modest lifestyle needs that are 'well-covered' but doesn't specify pension arrangements"
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Berkshire Hathaway holdings",
+                "provider": "Berkshire Hathaway",
+                "value": "Significant portion of wealth"
+              },
+              {
+                "owner": "Client",
+                "type": "Personal holdings",
+                "provider": "<UNKNOWN>",
+                "value": "Substantial but designed to be straightforward"
+              },
+              {
+                "owner": "Client",
+                "type": "Liquid assets",
+                "provider": "<UNKNOWN>",
+                "value": "Significant liquidity maintained"
+              }
+            ],
+            "notes": [
+              "Client has pledged to give away over 99% of wealth to philanthropy",
+              "Primary recipients are the Gates Foundation and foundations led by his children",
+              "Client maintains significant liquidity to capitalize on philanthropic opportunities",
+              "Client takes a conservative approach with personal assets designated for philanthropy",
+              "Assets are mentally separated between Berkshire (forever time horizon) and personal philanthropic assets (10-year distribution timeline)",
+              "Client avoids speculation and complex financial instruments",
+              "Client prefers simplicity and transparency in financial structure"
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "Berkshire Hathaway holdings",
+                "current_value": "Significant portion of wealth",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Personal holdings for philanthropy",
+                "current_value": "Substantial but designed to be straightforward",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Liquid assets",
+                "current_value": "Significant liquidity maintained",
+                "original_value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client has pledged to give away over 99% of wealth to philanthropy",
+              "Primary recipients are the Gates Foundation and foundations led by his children",
+              "Client maintains significant liquidity to capitalize on philanthropic opportunities",
+              "Assets are mentally separated between Berkshire (forever time horizon) and personal philanthropic assets (10-year distribution timeline)",
+              "Client prefers simplicity and transparency in financial structure",
+              "Client avoids speculation and complex financial instruments",
+              "Client's children received modest inheritances by design"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "No specific information about loans or mortgages was provided in the conversation",
+              "Client mentioned having modest lifestyle needs that are 'well-covered'",
+              "Client's financial structure prioritizes simplicity and transparency",
+              "Client has pledged to give away over 99% of wealth to philanthropy",
+              "Client avoids complex financial instruments and speculation"
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "<UNKNOWN>",
+            "information_about_will": "The client has mentioned that he has established clear instructions for his estate, with explicit instructions on asset distribution to philanthropic entities. He has built in discretion for his trustees to respond to changing circumstances.",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "The client is Warren Buffett, who has pledged to give away over 99% of his wealth to philanthropy.",
+              "Most of his wealth will be distributed within 10 years after his estate is settled.",
+              "He has three grown children - Susie, Howard, and Peter - all in their sixties and financially independent.",
+              "He has been married to his second wife, Astrid, since 2006.",
+              "He has established estate documents with explicit instructions on asset distribution to philanthropic entities.",
+              "He maintains a balance between clear direction and flexibility for his trustees in his estate planning."
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "No specific protection policies were mentioned in the conversation.",
+              "The client (Warren Buffett) discussed his wealth management and philanthropic goals but did not provide details about any insurance or protection policies.",
+              "The client has pledged to give away over 99% of his wealth to philanthropy, primarily through the Gates Foundation and foundations led by his children.",
+              "His estate planning includes clear instructions for asset distribution to philanthropic entities with flexibility for trustees to respond to changing circumstances."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {}
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 111.95608758926392,
+      "input_tokens": 145399,
+      "output_tokens": 5429,
+      "total_tokens": 150828,
+      "api_calls": 19
+    }
+  }
+]

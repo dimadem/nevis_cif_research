@@ -1,0 +1,1306 @@
+{
+  "personal_details": [
+    {
+      "client": {
+        "title": [
+          "Mr",
+          "Mr."
+        ],
+        "first_name": "Elon",
+        "middle_names": "Reeve",
+        "last_name": "Musk",
+        "pronouns": "<UNKNOWN>",
+        "date_of_birth": "28/06/1971",
+        "place_of_birth": "South Africa",
+        "nationality": "South African, Canadian, U.S.",
+        "gender": "<UNKNOWN>",
+        "legal_sex": "<UNKNOWN>",
+        "marital_status": "Divorced",
+        "home_phone": "<UNKNOWN>",
+        "mobile_phone": "650-507-XXXX",
+        "email_address": "elon@spacex.com"
+      }
+    },
+    {
+      "current_address": {
+        "house_name_number": "2632",
+        "street_name": "Lake Austin Boulevard",
+        "town_city": "Austin",
+        "county": "<UNKNOWN>",
+        "country": [
+          "USA",
+          "United States"
+        ],
+        "postcode": "78703",
+        "ownership_status": "Owner",
+        "address_line_3": "<UNKNOWN>",
+        "address_line_4": "<UNKNOWN>",
+        "move_in_date": "<UNKNOWN>"
+      }
+    },
+    {
+      "previous_addresses": {
+        "entries": [
+          {
+            "house_name_number": "10911",
+            "street_name": "Chalon Road",
+            "town_city": [
+              "Los Angeles",
+              "California",
+              "Texas"
+            ],
+            "county": "California",
+            "country": [
+              "USA",
+              "United States"
+            ],
+            "postcode": "90077",
+            "ownership_status": "Owner",
+            "move_in_date": "<UNKNOWN>",
+            "move_out_date": "<UNKNOWN>"
+          }
+        ]
+      }
+    },
+    {
+      "dependants_children": {
+        "entries": [
+          {
+            "Name": [
+              "Griffin Musk",
+              "Multiple children",
+              "Twins (unnamed)",
+              "Triplets (unnamed)",
+              "X Æ A-12",
+              "Daughter with Grimes (unnamed)",
+              "Child through surrogacy (unnamed)"
+            ],
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "Xavier Musk",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          },
+          {
+            "Name": "<UNKNOWN>",
+            "Date_of_Birth": "<UNKNOWN>",
+            "Dependent_Until": "<UNKNOWN>"
+          }
+        ]
+      }
+    }
+  ],
+  "employment": [
+    {
+      "client": {
+        "country_domiciled": [
+          "USA",
+          "United States"
+        ],
+        "resident_for_tax": [
+          "USA",
+          "United States"
+        ],
+        "national_insurance_number": "<UNKNOWN>",
+        "employment_status": "Employed",
+        "desired_retirement_age": "<UNKNOWN>",
+        "occupation": [
+          "Entrepreneur/CEO",
+          "CEO of Tesla, CEO and Chief Engineer at SpaceX, owner of X (formerly Twitter), founder of Neuralink and The Boring Company",
+          "CEO/Entrepreneur"
+        ],
+        "employer": [
+          "SpaceX, Tesla, Neuralink, X (formerly Twitter)",
+          "Multiple companies (Tesla, SpaceX, X, Neuralink, The Boring Company)",
+          "Tesla, SpaceX",
+          "Tesla, SpaceX, and other companies"
+        ],
+        "employment_started": "<UNKNOWN>",
+        "highest_rate_of_tax_paid": "<UNKNOWN>",
+        "notes": [
+          "Traditional pension arrangements aren't relevant to his wealth strategy",
+          "Doesn't take a traditional salary at Tesla, instead works on a performance-based package tied to company milestones and market cap targets",
+          "[\"Most wealth is tied to his companies - Tesla, SpaceX, and others\", \"Has some basic 401(k) plans from earlier in his career (PayPal days)\", \"Prefers maintaining control and liquidity to fund new innovations rather than traditional pension structures\", \"Has properties in California and Texas\", \"Maintains liquid reserves primarily for margin requirements against Tesla shares\", \"Has established credit lines with multiple banks using Tesla shares as collateral\", \"Has created trusts for his children\"",
+          "Maintains properties in Texas and California",
+          "Wealth is concentrated in Tesla, SpaceX, and other companies he owns",
+          "Wealth is primarily in Tesla and SpaceX equity",
+          "Client is the founder/CEO of multiple companies including SpaceX and Tesla",
+          "Client is interested in innovative approaches to philanthropy focused on technological advancement",
+          "Annual personal spending is roughly $5-10 million",
+          "More focused on funding long-term projects like Mars colonization than traditional retirement",
+          "Prefers to take loans against equity rather than selling shares when capital is needed",
+          "Uses margin loans against Tesla shares for liquidity",
+          "Has several billion in margin loans against Tesla shares",
+          "Client has entrepreneurial interests and is focused on Mars colonization efforts",
+          "Client's brother Kimbal works closely with him on several ventures",
+          "Has a family office called Excession LLC that manages day-to-day financial affairs",
+          "Client's wealth is predominantly tied to his companies' stock",
+          "Has foundations focused on sustainable energy, space exploration, and AI safety"
+        ]
+      }
+    },
+    {
+      "incomes": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Company Stock (Tesla, SpaceX, etc.)",
+              "Performance-based stock awards from Tesla",
+              "Capital gains from occasional Tesla share sales",
+              "Tesla and SpaceX ownership",
+              "Margin loans against Tesla shares"
+            ],
+            "amount": [
+              "Billions in potential value",
+              "Variable"
+            ],
+            "frequency": [
+              "Ongoing",
+              "Variable",
+              "As needed"
+            ],
+            "net_gross": "Gross",
+            "timeframe": [
+              "Current",
+              "When performance milestones are hit",
+              "When needed for capital or to exercise options"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Personal spending",
+              "Equity-backed loans"
+            ],
+            "amount": [
+              "$5-10 million",
+              "$500 million to $2 billion"
+            ],
+            "frequency": [
+              "Annually",
+              "As needed"
+            ],
+            "net_gross": "<UNKNOWN>",
+            "timeframe": [
+              "Current",
+              "When needed for major acquisitions or investments"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Tesla and SpaceX equity",
+              "Real estate in California and Texas",
+              "Liquid reserves",
+              "Cryptocurrency (Bitcoin, Ethereum, Dogecoin)",
+              "Startup investments",
+              "401(k) plans (PayPal days)"
+            ],
+            "amount": [
+              "90% of net worth",
+              "$70 million",
+              "$500 million",
+              "$1-2 billion",
+              "$250 million",
+              "under $2 million total"
+            ],
+            "frequency": "Annually",
+            "net_gross": "Gross",
+            "timeframe": "Current"
+          }
+        ],
+        "notes": [
+          "Wealth is concentrated in Tesla, SpaceX, and other companies he owns",
+          "Most wealth is tied to his companies - Tesla, SpaceX, and others",
+          "Has some art and collectibles, but not a major asset class",
+          "Has been selling most properties recently",
+          "401(k) plans are with Fidelity and Vanguard",
+          "Also has significant equity in X, The Boring Company, and Neuralink",
+          "Prefers maintaining control and liquidity to fund new innovations rather than traditional pension structures",
+          "Prefers maintaining control of companies while accessing capital through selective private placements and strategic partners",
+          "Has a family office called Excession LLC that manages day-to-day financial affairs",
+          "Client is interested in maintaining liquidity while wealth is tied to company stocks",
+          "Client's wealth is predominantly tied to his companies' stock",
+          "Maintains minimal cash reserves and prefers to remain fully invested in his companies",
+          "Client is the founder/CEO of multiple companies including SpaceX and Tesla",
+          "Has several billion in margin loans against Tesla shares",
+          "Maintains a few properties in Texas and California",
+          "Has established credit lines with multiple banks using Tesla shares as collateral",
+          "Cryptocurrency value fluctuates depending on market conditions",
+          "Wealth is primarily in Tesla and SpaceX equity (about 85% of net worth)",
+          "Doesn't take traditional salaries from his companies",
+          "Liquid reserves primarily for margin requirements against Tesla shares and potential SpaceX capital calls",
+          "Minimal public market investments",
+          "Uses margin loans against Tesla shares for liquidity",
+          "Prefers to take loans against equity rather than selling shares",
+          "Experiences liquidity issues due to concentrated positions in his companies",
+          "No specific income amounts or salary details were mentioned in the conversation"
+        ]
+      }
+    }
+  ],
+  "expenses": [
+    {
+      "loan_repayments": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Company Stock Liquidity",
+              "Margin loans against Tesla shares",
+              "Equity-backed loans",
+              "Credit lines with multiple banks"
+            ],
+            "amount": [
+              "Several billion",
+              "$500 million to $2 billion"
+            ],
+            "frequency": "As needed",
+            "priority": "High",
+            "timeframe": [
+              "Current",
+              "When needed for major acquisitions or investments"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "housing_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Primary Residence",
+              "Multiple properties",
+              "Properties in Texas and California",
+              "Residences",
+              "Real estate in California and Texas",
+              "Margin loans against Tesla shares"
+            ],
+            "amount": [
+              "Part of $5-10 million annual spending",
+              "$70 million"
+            ],
+            "frequency": [
+              "Monthly",
+              "Ongoing",
+              "Annual",
+              "Annually",
+              "As needed"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "motoring_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Personal transportation",
+              "Tesla vehicles"
+            ],
+            "amount": "Part of $5-10 million annual spending",
+            "frequency": "Annual",
+            "priority": "Medium",
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "personal_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Liquidity needs",
+              "Personal spending",
+              "Residences",
+              "Margin loans against Tesla shares",
+              "Children's education and basic security trusts",
+              "Foundations for sustainable energy, space exploration, and AI safety",
+              "Family office (Excession LLC) expenses",
+              "Support for parents"
+            ],
+            "amount": [
+              "$5-10 million",
+              "Part of $5-10 million annual spending"
+            ],
+            "frequency": [
+              "Ongoing",
+              "Annually",
+              "Annual",
+              "As needed"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Philanthropy for technological advancement",
+              "Travel",
+              "Family needs",
+              "Liquid reserves"
+            ],
+            "amount": [
+              "Part of $5-10 million annual spending",
+              "$500 million"
+            ],
+            "frequency": [
+              "Annual",
+              "Annually"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Long-term",
+              "Current"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Mars colonization funding",
+              "Cryptocurrency (Bitcoin, Ethereum, Dogecoin)",
+              "Startup investments"
+            ],
+            "amount": [
+              "$1-2 billion",
+              "$250 million"
+            ],
+            "frequency": "Annually",
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Multi-generational",
+              "Current"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": "401(k) plans (PayPal days)",
+            "amount": "under $2 million total",
+            "frequency": "Annually",
+            "priority": "Low",
+            "timeframe": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "professional_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Maintaining liquidity with company stock",
+              "CEO of Tesla",
+              "CEO and Chief Engineer at SpaceX",
+              "Owner of X (formerly Twitter)",
+              "Founder of Neuralink",
+              "Founder of The Boring Company",
+              "Credit lines with multiple banks",
+              "Family office services",
+              "Legal services (General counsel at SpaceX)",
+              "Family office (Excession LLC)",
+              "Margin loans against Tesla shares"
+            ],
+            "amount": "Performance-based stock awards",
+            "frequency": [
+              "Ongoing",
+              "Variable",
+              "As needed"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Current"
+          },
+          {
+            "owner": "Client",
+            "name": "Innovative philanthropy for technological advancement",
+            "amount": "<UNKNOWN>",
+            "frequency": "Ongoing",
+            "priority": "High",
+            "timeframe": "Long-term"
+          },
+          {
+            "owner": "Client",
+            "name": "Mars colonization funding",
+            "amount": "<UNKNOWN>",
+            "frequency": "Ongoing",
+            "priority": "High",
+            "timeframe": "Multi-generational"
+          }
+        ]
+      }
+    },
+    {
+      "miscellaneous_expenses": {
+        "entries": [
+          {
+            "owner": "Client",
+            "name": [
+              "Mars colonization funding",
+              "Philanthropic initiatives",
+              "Art and collectibles",
+              "Family office services",
+              "Foundation work",
+              "AI safety research",
+              "Mars development funding"
+            ],
+            "amount": "<UNKNOWN>",
+            "frequency": [
+              "Ongoing",
+              "Occasional"
+            ],
+            "priority": [
+              "High",
+              "Low"
+            ],
+            "timeframe": [
+              "Multi-generational",
+              "Current and future",
+              "Current",
+              "Current and Future"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": [
+              "Innovative philanthropy for technological advancement",
+              "Family office management",
+              "Foundation expenses",
+              "Foundations for sustainable energy, space exploration, and AI safety",
+              "Family office (Excession LLC) expenses",
+              "Support for parents",
+              "Mars colonization initiatives through SpaceX"
+            ],
+            "amount": "<UNKNOWN>",
+            "frequency": "Ongoing",
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Long-term",
+              "Current",
+              "Current and future",
+              "Current and long-term"
+            ]
+          },
+          {
+            "owner": "Client",
+            "name": "Liquidity needs with company stock",
+            "amount": "<UNKNOWN>",
+            "frequency": "Ongoing",
+            "priority": "High",
+            "timeframe": "Current"
+          }
+        ],
+        "notes": [
+          "Client uses Excession LLC as family office to manage day-to-day financial affairs",
+          "Client has a family office that manages his financial affairs",
+          "Client is interested in strategies for maintaining liquidity while wealth is tied to company stocks",
+          "Client is focused on multi-generational planning for Mars colonization efforts",
+          "Client has a foundation with AI safety initiatives",
+          "Client's family office manages his financial arrangements",
+          "Client has established trusts for his children",
+          "Client prioritizes wealth being used to drive innovation that benefits humanity's future",
+          "Client is less interested in conventional wealth preservation and more focused on capital deployment toward specific objectives",
+          "Client ensures his parents are comfortable though they're relatively self-sufficient",
+          "Client has commitments to various philanthropic initiatives through his foundation",
+          "Client intends to allocate the majority of his wealth to advancing humanity's future - Mars colonization, sustainable energy, and ensuring beneficial AI development",
+          "Client has some art and collectibles, but they're not a major asset class",
+          "Client wants to ensure provisions for funding Mars development and AI safety research as central missions",
+          "Client prefers maintaining control and liquidity to fund new innovations rather than traditional pension structures",
+          "Client has foundations focused on sustainable energy, space exploration, and AI safety",
+          "Client is focused on long-term funding for Mars colonization through SpaceX",
+          "Client has established initial structures through his foundation but needs more comprehensive planning",
+          "Client wants innovative approaches to philanthropy focused on technological advancement"
+        ]
+      }
+    },
+    {
+      "pensions": {
+        "entries": [
+          {
+            "owner": "Client",
+            "policy_number": "<UNKNOWN>",
+            "provider": "Fidelity and Vanguard",
+            "type": [
+              "Non-traditional",
+              "401(k) plans"
+            ],
+            "value": "under $2 million total"
+          }
+        ],
+        "notes": [
+          "Traditional pension arrangements aren't relevant to his wealth strategy",
+          "Wealth is concentrated in Tesla, SpaceX, and other companies he owns",
+          "Client prefers to invest in his own ventures rather than traditional retirement vehicles",
+          "Plans are from PayPal days and earlier ventures",
+          "Client hasn't looked at them in years",
+          "Client appears to have no traditional pension arrangements mentioned in the conversation",
+          "Client operates outside conventional retirement planning",
+          "Client has been meaning to consolidate them but hasn't prioritized it",
+          "Client is more focused on funding long-term projects like Mars colonization than traditional retirement",
+          "Client has foundations focused on sustainable energy, space exploration, and AI safety",
+          "Client uses a family office called Excession LLC that manages day-to-day financial affairs",
+          "Client prefers maintaining control and liquidity to fund new innovations rather than locking assets in conventional pension structures",
+          "Client's wealth is primarily in Tesla and SpaceX equity (about 85% of net worth)",
+          "These plans are insignificant compared to client's equity holdings"
+        ]
+      }
+    },
+    {
+      "savings_investments": {
+        "entries": [
+          {
+            "owner": "Client",
+            "provider": [
+              "Tesla",
+              "SpaceX",
+              "Excession LLC"
+            ],
+            "type": [
+              "Company Stock",
+              "Tesla Equity",
+              "SpaceX Equity",
+              "Art and collectibles",
+              "Liquid Reserves",
+              "Company stock",
+              "Private company ownership",
+              "Family office"
+            ],
+            "value": [
+              "Majority of net worth (approximately 85% combined with SpaceX)",
+              "Significant portion of net worth (approximately 85% combined with Tesla)",
+              "Minor asset class",
+              "$500 million"
+            ]
+          },
+          {
+            "owner": "Client",
+            "provider": [
+              "SpaceX",
+              "X",
+              "The Boring Company",
+              "Neuralink",
+              "Fidelity and Vanguard"
+            ],
+            "type": [
+              "Company Stock",
+              "X (formerly Twitter) Equity",
+              "The Boring Company Equity",
+              "Neuralink Equity",
+              "401(k) plans"
+            ],
+            "value": [
+              "Significant equity",
+              "under $2 million total"
+            ]
+          },
+          {
+            "owner": "Client",
+            "provider": [
+              "X (formerly Twitter)",
+              "Tesla, SpaceX"
+            ],
+            "type": [
+              "Company Stock",
+              "Equity"
+            ],
+            "value": "90% of net worth"
+          },
+          {
+            "owner": "Client",
+            "provider": [
+              "Neuralink",
+              "Properties in California and Texas",
+              "Bitcoin, Ethereum, Dogecoin"
+            ],
+            "type": [
+              "Company Stock",
+              "Real Estate",
+              "Cryptocurrency"
+            ],
+            "value": [
+              "$70 million",
+              "$1-2 billion"
+            ]
+          },
+          {
+            "owner": "Client",
+            "type": "Startup Investments",
+            "provider": "Various startups through foundation and personal ventures",
+            "value": "$250 million"
+          }
+        ],
+        "notes": [
+          "Wealth is concentrated in Tesla, SpaceX, and other companies he owns",
+          "Client maintains minimal cash reserves and prefers to remain fully invested in his companies",
+          "Most wealth is tied to his companies - Tesla, SpaceX, and others",
+          "Client is interested in strategies for maintaining liquidity while wealth is tied to company stocks",
+          "Has been selling most properties recently",
+          "Prefers keeping asset structure relatively streamlined to maintain focus on primary companies",
+          "Prefers maintaining control of companies while accessing capital through selective private placements and strategic partners",
+          "Client has divested most of his real estate portfolio, though maintains a few properties in Texas and California",
+          "Client hasn't looked at 401(k) plans in years and has been meaning to consolidate them",
+          "Client's wealth is predominantly tied to his companies' stock",
+          "Client is focused on deploying capital toward Mars colonization efforts, innovative philanthropy, and technological advancement",
+          "Client has minimal public market investments - prefers to invest in his own ventures",
+          "Client has some art and collectibles, but they're not a major asset class",
+          "Client is less interested in conventional wealth preservation and more focused on efficient capital deployment",
+          "Cryptocurrency value fluctuates depending on market conditions",
+          "Has established credit lines with multiple banks using Tesla shares as collateral",
+          "401(k) plans are from PayPal days and earlier ventures",
+          "Client has basic trusts set up for children but notes they're not as sophisticated as they should be",
+          "Liquid reserves primarily for margin requirements against Tesla shares and potential SpaceX capital calls",
+          "Uses margin loans against Tesla shares for liquidity",
+          "Experiences liquidity issues due to concentrated positions in his companies",
+          "Client's wealth is primarily in Tesla and SpaceX equity (about 85% of net worth)",
+          "Has foundations focused on sustainable energy, space exploration, and AI safety"
+        ]
+      }
+    },
+    {
+      "other_assets": {
+        "entries": [
+          {
+            "owner": "Client",
+            "description": [
+              "Tesla Company Stock",
+              "Tesla Equity",
+              "SpaceX Equity",
+              "X (formerly Twitter) Equity",
+              "The Boring Company Equity",
+              "Neuralink Equity",
+              "Properties in Texas and California",
+              "Art and collectibles",
+              "Tesla and SpaceX equity",
+              "Real estate in California and Texas",
+              "Liquid reserves",
+              "Cryptocurrency (Bitcoin, Ethereum, Dogecoin)",
+              "Startup investments",
+              "401(k) plans from PayPal days",
+              "Tesla ownership",
+              "SpaceX ownership",
+              "Twitter/X acquisition",
+              "Family office (Excession LLC)"
+            ],
+            "current_value": [
+              "Majority of net worth (approximately 85% combined with SpaceX)",
+              "Significant portion of net worth (approximately 85% combined with Tesla)",
+              "Significant equity",
+              "Minor asset class",
+              "90% of net worth",
+              "$70 million",
+              "$500 million",
+              "$1-2 billion",
+              "$250 million",
+              "under $2 million total"
+            ],
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "SpaceX Company Stock",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "X (formerly Twitter) Company Stock",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "Neuralink Company Stock",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          },
+          {
+            "owner": "Client",
+            "description": "Primary Residence in Austin, Texas",
+            "current_value": "<UNKNOWN>",
+            "original_value": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "Client prefers keeping asset structure relatively streamlined to maintain focus on primary companies",
+          "Client maintains minimal cash reserves and prefers to remain fully invested in his companies",
+          "Most wealth is tied to his companies - Tesla, SpaceX, and others",
+          "Client is interested in strategies for maintaining liquidity while wealth is tied to company stocks",
+          "Client experienced financial pressure during the Twitter acquisition",
+          "Client uses margin loans against Tesla shares for liquidity",
+          "Client has a family office called Excession LLC that manages day-to-day financial affairs",
+          "Client prefers maintaining control of companies while accessing capital through selective private placements and strategic partners",
+          "Client has divested most of his real estate portfolio, though maintains a few properties in Texas and California",
+          "Client's wealth is predominantly tied to his companies' stock",
+          "Client is focused on deploying capital toward Mars colonization efforts, innovative philanthropy, and technological advancement",
+          "Client has minimal public market investments - prefers to invest in his own ventures",
+          "Client's wealth is concentrated in Tesla, SpaceX, and other companies he owns",
+          "Client has entrepreneurial interests across multiple companies including Tesla, SpaceX, Neuralink, and X (formerly Twitter)",
+          "Client has created trusts for his children",
+          "Client has some art and collectibles, but they're not a major asset class",
+          "Client is less interested in conventional wealth preservation and more focused on efficient capital deployment",
+          "Client has established credit lines with multiple banks using Tesla shares as collateral",
+          "Cryptocurrency value fluctuates depending on market conditions",
+          "Client has been selling most properties recently",
+          "Liquid reserves primarily for margin requirements against Tesla shares and potential SpaceX capital calls",
+          "Client's wealth is primarily in Tesla and SpaceX equity (about 85% of net worth)"
+        ]
+      }
+    },
+    {
+      "loans_mortgages": {
+        "entries": [
+          {
+            "owner": "Client",
+            "type": [
+              "Margin loans",
+              "Equity-backed loans",
+              "Credit Lines"
+            ],
+            "provider": [
+              "Financial institutions",
+              "Multiple banks including Goldman Sachs, Morgan Stanley, and Bank of America"
+            ],
+            "monthly_cost": "<UNKNOWN>",
+            "outstanding_value": [
+              "Several billion",
+              "$500 million to $2 billion"
+            ],
+            "interest_rate": "Favorable",
+            "special_rate": "<UNKNOWN>",
+            "final_payment": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "Client is interested in exploring more sophisticated liquidity solutions beyond traditional margin loans",
+          "Client interested in establishing a more formalized collateralized line of credit program with multiple institutions",
+          "The Twitter acquisition created significant financial pressure due to timing and structure",
+          "Client's family office manages these loan arrangements",
+          "A sustained downturn could trigger margin calls and force liquidation at unfavorable prices",
+          "Client's focus appears to be on liquidity related to company stocks rather than traditional loans",
+          "Client prefers taking loans against equity rather than selling shares to avoid triggering capital gains",
+          "Credit lines use Tesla shares as collateral",
+          "Client uses margin loans against Tesla shares for liquidity",
+          "Client has experienced volatility issues when Tesla stock fluctuates",
+          "Loans are typically structured as margin loans against Tesla shares at favorable interest rates",
+          "Client mentioned his primary residence in Austin, Texas, but did not provide details about any mortgage",
+          "Used for margin requirements against Tesla shares and potential SpaceX capital calls",
+          "No specific information about loans or mortgages was provided in the conversation",
+          "These margin loans create vulnerability due to Tesla stock concentration",
+          "Currently handled somewhat ad hoc and could benefit from more favorable terms",
+          "Loans are used for major acquisitions, investments, and personal liquidity needs",
+          "Established to provide liquidity without triggering tax events from selling shares"
+        ]
+      }
+    }
+  ],
+  "health_details": [
+    {
+      "client": {
+        "current_state_of_health": "Good",
+        "state_of_health_explanation": [
+          "No specific health issues mentioned in the conversation",
+          "Client appears to be in good health based on his active involvement in multiple companies and ventures. No specific health issues were mentioned in the conversation.",
+          "Client appears to be in good health based on the conversation, though no specific health details are mentioned"
+        ],
+        "smoker": "No",
+        "cigarettes_per_day": "<UNKNOWN>",
+        "smoker_since": "<UNKNOWN>",
+        "long_term_care_needed": "No",
+        "long_term_care_explanation": "<UNKNOWN>",
+        "will": "Yes",
+        "information_about_will": [
+          "Client has established some initial structures through his foundation for wealth transfer, but mentions it needs more comprehensive planning. He intends to allocate the majority of his wealth to advancing humanity's future - Mars colonization, sustainable energy, and ensuring beneficial AI development.",
+          "Client mentioned a \"preliminary succession memo\" drafted a few years ago that outlines his thinking, though it's described as \"more conceptual than formal\"",
+          "Client has some basic trusts set up but mentions they're not as sophisticated as they should be given his wealth"
+        ],
+        "power_of_attorney": [
+          "No",
+          "Yes"
+        ],
+        "details_of_individual_with_power_of_attorney": [
+          "Client has a general counsel at SpaceX who understands both his companies and his thinking on succession matters",
+          "Family office director at Excession LLC who manages day-to-day operations of financial affairs"
+        ],
+        "notes": [
+          "Client has a family office that manages his financial affairs",
+          "Client has a foundation with AI safety initiatives",
+          "Client has been divorced three times",
+          "Client is developing a comprehensive succession plan for his companies",
+          "Client's first son passed away as an infant",
+          "Client has a family office called Excession LLC that manages day-to-day financial affairs",
+          "Client has been influenced by the Giving Pledge philosophy though hasn't formally signed it",
+          "Client has ten children - six sons and four daughters",
+          "Client is exploring governance structures where both family and independent directors with relevant expertise would be involved",
+          "Client has several children who will inherit significant wealth",
+          "Client is focused on Mars colonization efforts, innovative philanthropy, and maintaining liquidity",
+          "Client's focus is on Mars colonization and AI development, which are decades-long endeavors",
+          "Client wants to provide enough for his children that they can do anything, but not so much that they can do nothing",
+          "Client has created trusts for his children",
+          "Client wants to ensure provisions for funding Mars development and AI safety research as central missions",
+          "Client is interested in establishing structures to support his children's futures",
+          "Client has a family office that manages his financial arrangements",
+          "Client wants to create trust structures that provide education funding and basic security for children",
+          "Client is developing a governance framework that addresses both family wealth transition and mission continuity",
+          "Client is concerned about succession risk if something happened to him",
+          "Client works closely with his brother Kimbal on several ventures"
+        ]
+      }
+    },
+    {
+      "protection_policies": {
+        "entries": [
+          {
+            "owner": "Client",
+            "type": [
+              "Credit Lines",
+              "Basic trusts"
+            ],
+            "provider": "Multiple banks including Goldman Sachs, Morgan Stanley, and Bank of America",
+            "monthly_cost": "<UNKNOWN>",
+            "amount_assured": "<UNKNOWN>",
+            "in_trust": [
+              "No",
+              "Yes"
+            ],
+            "assured_until": "<UNKNOWN>"
+          }
+        ],
+        "notes": [
+          "Client has ten children who might be beneficiaries of any protection policies, but no details were provided",
+          "Client has some basic trusts set up but mentions they're not as sophisticated as they should be given his wealth",
+          "Client has a family office called Excession LLC that manages day-to-day operations of financial affairs",
+          "Client is interested in establishing a more formalized collateralized line of credit program with multiple institutions",
+          "Credit lines use Tesla shares as collateral",
+          "Client is concerned about succession risk if something happened to him",
+          "No specific protection policies were mentioned in the conversation",
+          "Client mentioned interest in establishing structures to support his children's futures, but did not specify protection policies",
+          "Client primarily relies on his significant equity holdings rather than traditional protection policies",
+          "Client's focus appears to be on liquidity related to company stocks, philanthropy for technological advancement, and Mars colonization funding",
+          "Currently handled somewhat ad hoc and could benefit from more favorable terms",
+          "Client wants to create trust structures that provide education funding and basic security for children",
+          "Client's wealth strategy appears to operate outside conventional insurance arrangements",
+          "Client is exploring governance structures where both family and independent directors with relevant expertise would be involved",
+          "Established to provide liquidity without triggering tax events from selling shares"
+        ]
+      }
+    }
+  ],
+  "objectives": [
+    {
+      "objectives_extractor": {
+        "entries": [
+          {
+            "category": "Financial",
+            "description": [
+              "Strategies for maintaining liquidity while wealth is predominantly tied to company stocks",
+              "Maintain strategic control of companies while creating efficient liquidity mechanisms"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Current",
+              "Ongoing"
+            ],
+            "additional_notes": [
+              "Client explicitly mentioned this as one of three focus areas; wealth is primarily in Tesla, SpaceX, X (formerly Twitter), and Neuralink stocks",
+              "Client wants to optimize the interface between personal holdings and companies' capital needs while maintaining voting control and providing liquidity for company operations"
+            ]
+          },
+          {
+            "category": [
+              "Philanthropy",
+              "Financial"
+            ],
+            "description": [
+              "Innovative approaches to philanthropy focused on technological advancement",
+              "Allocate 5-10% of wealth to diversification strategies"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Long-term",
+              "Ongoing"
+            ],
+            "additional_notes": [
+              "Client prefers non-traditional charitable giving that drives technological progress; mentioned as second focus area",
+              "Client is willing to diversify a small portion of wealth primarily as a hedge against black swan events affecting the tech sector or electric vehicle market"
+            ]
+          },
+          {
+            "category": [
+              "Legacy/Multi-generational",
+              "Financial"
+            ],
+            "description": [
+              "Structures to fund Mars colonization efforts",
+              "Develop sophisticated liquidity solutions beyond traditional margin loans"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": [
+              "Multi-generational",
+              "Near-term"
+            ],
+            "additional_notes": [
+              "Client specifically mentioned this as third focus area; looking for very long-term planning structures",
+              "Client currently uses margin loans against Tesla shares but is interested in exploring more sophisticated liquidity solutions"
+            ]
+          },
+          {
+            "category": [
+              "Family",
+              "Philanthropic"
+            ],
+            "description": [
+              "Establishing structures to support children's futures while encouraging entrepreneurship",
+              "Allocate majority of wealth to advancing humanity's future"
+            ],
+            "priority": [
+              "Medium",
+              "High"
+            ],
+            "timeframe": "Long-term",
+            "additional_notes": [
+              "Client has ten children (six sons, four daughters); believes in creating opportunity rather than dependency; doesn't want to remove drive to achieve",
+              "Client intends to dedicate most of his wealth to Mars colonization, sustainable energy, and ensuring beneficial AI development"
+            ]
+          },
+          {
+            "category": [
+              "Business",
+              "Philanthropic"
+            ],
+            "description": [
+              "Efficient capital deployment toward strategic objectives",
+              "Develop comprehensive AI safety governance provisions"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Current",
+              "Short-term (within two weeks)"
+            ],
+            "additional_notes": [
+              "Client explicitly stated being less interested in conventional wealth preservation and more focused on deploying capital efficiently",
+              "Client considers this a time-sensitive priority and wants to implement AI safety measures sooner rather than later"
+            ]
+          },
+          {
+            "category": [
+              "Family",
+              "Legacy Planning"
+            ],
+            "description": [
+              "Collaboration with brother Kimbal on business ventures",
+              "Create balanced wealth transfer structures for children"
+            ],
+            "priority": [
+              "Medium",
+              "High"
+            ],
+            "timeframe": [
+              "Current",
+              "Long-term"
+            ],
+            "additional_notes": [
+              "Client mentioned his brother Kimbal might be relevant to some aspects of wealth planning as they work closely together",
+              "Client wants to provide enough for his children that they can do anything, but not so much that they can do nothing"
+            ]
+          },
+          {
+            "category": [
+              "Values",
+              "Business"
+            ],
+            "description": [
+              "Alignment of investments with personal values and long-term vision",
+              "Support Mars colonization and AI development initiatives"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Ongoing",
+              "Decades-long"
+            ],
+            "additional_notes": [
+              "Client specifically mentioned wanting investments to align with values and vision",
+              "These are long-term endeavors requiring sustained capital investment"
+            ]
+          },
+          {
+            "category": [
+              "Business",
+              "Legal/Structural"
+            ],
+            "description": [
+              "Maintain liquidity reserves to support companies during market downturns",
+              "Develop multi-jurisdictional approach for global operations"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Ongoing",
+              "Within 30 days"
+            ],
+            "additional_notes": [
+              "Client wants to ensure his companies can execute their missions regardless of market conditions",
+              "Client needs structures that can operate globally with minimal friction, particularly for initiatives like Mars colonization that transcend traditional jurisdictional boundaries"
+            ]
+          },
+          {
+            "category": [
+              "Legal/Structural",
+              "Risk Management"
+            ],
+            "description": [
+              "Optimize intellectual property management across entities",
+              "Stress-test financial structures against various scenarios"
+            ],
+            "priority": "Medium",
+            "timeframe": "Within 30 days",
+            "additional_notes": [
+              "Client's companies generate significant IP and wants the framework to consider how to optimize that asset class specifically",
+              "Client wants analysis of how proposed structures might perform under various stress scenarios - market downturns, regulatory changes, or geopolitical shifts"
+            ]
+          },
+          {
+            "category": [
+              "Tax Planning",
+              "Financial"
+            ],
+            "description": [
+              "Optimize tax efficiency across jurisdictions",
+              "Establish a more formalized collateralized line of credit program with multiple institutions"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Within 30 days",
+              "Immediate"
+            ],
+            "additional_notes": [
+              "Client sees significant optimization potential given the global nature of his operations",
+              "Client has existing credit lines with Goldman Sachs, Morgan Stanley, and Bank of America using Tesla shares as collateral. Current arrangements are handled somewhat ad hoc and could benefit from more favorable terms."
+            ]
+          },
+          {
+            "category": [
+              "Investment",
+              "Estate Planning"
+            ],
+            "description": [
+              "Strategic diversification through specialized private market opportunities in quantum computing, advanced materials, and synthetic biology",
+              "Create a comprehensive succession framework using specialized trusts"
+            ],
+            "priority": [
+              "Medium",
+              "High"
+            ],
+            "timeframe": [
+              "Ongoing",
+              "3-4 months"
+            ],
+            "additional_notes": [
+              "Client is selective but open to opportunities that align with his interests in pushing technological boundaries.",
+              "Client needs structures that protect his vision while providing for his children and philanthropic goals. Initial structures could be established within 30-45 days, with complete architecture implemented within 3-4 months."
+            ]
+          },
+          {
+            "category": [
+              "Philanthropy",
+              "Corporate Governance"
+            ],
+            "description": [
+              "Ensure provisions for funding Mars development as a central mission",
+              "Ensure provisions for funding AI safety research as a central mission",
+              "Protect against activist shareholders or hostile takeover attempts of public companies"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Long-term",
+              "Immediate"
+            ],
+            "additional_notes": [
+              "Client wants to establish a self-sustaining civilization on Mars. This is fundamental to why he's building wealth.",
+              "Client wants to ensure artificial general intelligence benefits humanity and minimizes existential risks. This is fundamental to why he's building wealth.",
+              "Client needs mechanisms that protect the strategic connection between Tesla, SpaceX and mission-driven trusts without violating securities regulations or shareholder rights."
+            ]
+          },
+          {
+            "category": [
+              "Succession Planning",
+              "Estate Planning"
+            ],
+            "description": [
+              "Develop protocols for appropriate information sharing between entities after succession",
+              "Implement AI-enabled institutional memory systems"
+            ],
+            "priority": [
+              "High",
+              "Medium"
+            ],
+            "timeframe": "Medium-term",
+            "additional_notes": [
+              "Client is concerned about information asymmetry after he's gone. Needs protocols for appropriate information sharing that enable coordinated strategy without creating legal exposure.",
+              "Systems to maintain decision frameworks and principles to ensure integrated vision continues even when client is no longer the connecting point between entities."
+            ]
+          },
+          {
+            "category": [
+              "Family",
+              "Liquidity Management"
+            ],
+            "description": [
+              "Create sophisticated trust structures for children that provide education funding and basic security while requiring achievement to access substantial wealth",
+              "Develop better liquidity management solutions that don't rely heavily on Tesla stock as collateral"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Medium-term",
+              "Immediate (1-3 years)"
+            ],
+            "additional_notes": [
+              "Client wants to avoid creating 'trust fund kids with no motivation' while ensuring resources for education and opportunities",
+              "Client has used margin loans against Tesla shares which has created volatility issues when Tesla stock fluctuates"
+            ]
+          },
+          {
+            "category": [
+              "Business Structure",
+              "Long-term Mission"
+            ],
+            "description": [
+              "Create more efficient structures for funding companies and projects without creating tax burdens or governance complications",
+              "Establish sustainable funding mechanisms for Mars colonization through SpaceX and advancing sustainable energy"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Medium-term",
+              "Long-term"
+            ],
+            "additional_notes": [
+              "Client needs capital efficiency between various holdings while optimizing tax implications",
+              "Client wants wealth structures that can fund multi-decade initiatives even if he's not around to direct them"
+            ]
+          },
+          {
+            "category": [
+              "Governance",
+              "Risk Management"
+            ],
+            "description": [
+              "Develop governance frameworks that maintain mission focus across generations",
+              "Implement comprehensive risk management strategies across interconnected holdings"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Medium to Long-term",
+              "Immediate"
+            ],
+            "additional_notes": [
+              "Client is exploring structures where governance includes both family and independent directors with relevant expertise in areas like space exploration, sustainable energy, and advanced technology",
+              "Client identified concentration in Tesla stock, interconnection between companies, political/regulatory risks, succession risk, and reputation risk as key vulnerabilities"
+            ]
+          },
+          {
+            "category": [
+              "Investment Framework",
+              "Succession Planning"
+            ],
+            "description": [
+              "Create a framework for evaluating new ventures and technologies that might emerge",
+              "Establish clear succession mechanisms for maintaining the interconnected vision across companies"
+            ],
+            "priority": "High",
+            "timeframe": [
+              "Immediate",
+              "Medium-term"
+            ],
+            "additional_notes": [
+              "Client needs a systematic approach to evaluating opportunities against existing commitments and available capital while maintaining speed and flexibility",
+              "Client is concerned about succession risk if something happened to him as there's no clear mechanism for maintaining the interconnected vision across his companies"
+            ]
+          },
+          {
+            "category": [
+              "Philanthropy",
+              "Family Support"
+            ],
+            "description": [
+              "Maintain and develop foundations focused on sustainable energy, space exploration, and AI safety",
+              "Ensure parents are comfortable financially"
+            ],
+            "priority": "Medium",
+            "timeframe": "Ongoing",
+            "additional_notes": [
+              "Client wants to ensure his wealth primarily drives innovation that benefits humanity's future",
+              "Client wants to ensure his parents are comfortable, though they're relatively self-sufficient"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2257 @@
+[
+    {
+        "id": "1",
+        "client_name": "Elon Reeve Musk",
+        "form": {
+            "personal_details": [
+                {
+                    "client": {
+                        "title": "Mr",
+                        "first_name": "Elon",
+                        "middle_names": "Reeve",
+                        "last_name": "Musk",
+                        "pronouns": "<UNKNOWN>",
+                        "date_of_birth": "28/06/1971",
+                        "place_of_birth": "<UNKNOWN>",
+                        "nationality": "United States, Canada, South Africa",
+                        "gender": "<UNKNOWN>",
+                        "legal_sex": "<UNKNOWN>",
+                        "marital_status": "Not married",
+                        "home_phone": "<UNKNOWN>",
+                        "mobile_phone": "512-555-0199",
+                        "email_address": "elon@spacex.com"
+                    }
+                },
+                {
+                    "current_address": {
+                        "ownership_status": "Owner",
+                        "postcode": "78734",
+                        "house_name_number": "2500",
+                        "street_name": "Lakeway Boulevard",
+                        "address_line_3": "<UNKNOWN>",
+                        "address_line_4": "<UNKNOWN>",
+                        "town_city": "Austin",
+                        "county": "<UNKNOWN>",
+                        "country": "United States",
+                        "move_in_date": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "previous_addresses": {
+                        "entries": [
+                            {
+                                "ownership_status": "Owner",
+                                "postcode": "90077",
+                                "house_name_number": "10911",
+                                "street_name": "Chalon Road",
+                                "town_city": "Los Angeles",
+                                "county": "Bel Air",
+                                "country": "United States",
+                                "move_in_date": "<UNKNOWN>",
+                                "move_out_date": "<UNKNOWN>"
+                            },
+                            {
+                                "ownership_status": "Owner",
+                                "postcode": "94301",
+                                "house_name_number": "891",
+                                "street_name": "Woodland Road",
+                                "town_city": "Palo Alto",
+                                "county": "California",
+                                "country": "United States",
+                                "move_in_date": "<UNKNOWN>",
+                                "move_out_date": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dependants_children": {
+                        "entries": [
+                            {
+                                "Name": "Vivian Jenna Wilson (formerly Xavier)",
+                                "Date_of_Birth": "2004",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Griffin Musk",
+                                "Date_of_Birth": "2004",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Kai Musk",
+                                "Date_of_Birth": "2006",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Saxon Musk",
+                                "Date_of_Birth": "2006",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Damian Musk",
+                                "Date_of_Birth": "2006",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "X Æ A-Xii (X) Musk",
+                                "Date_of_Birth": "2020",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Exa Dark Sideræl (Y) Musk",
+                                "Date_of_Birth": "2021",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Strider Musk",
+                                "Date_of_Birth": "2021",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Azure Musk",
+                                "Date_of_Birth": "2021",
+                                "Dependent_Until": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "employment": [
+                {
+                    "client": {
+                        "country_domiciled": "United States",
+                        "resident_for_tax": "United States",
+                        "national_insurance_number": "<UNKNOWN>",
+                        "employment_status": "Employed",
+                        "desired_retirement_age": "<UNKNOWN>",
+                        "occupation": "CEO",
+                        "employer": "Tesla, SpaceX, The Boring Company, Neuralink, X (formerly Twitter)",
+                        "employment_started": "<UNKNOWN>",
+                        "highest_rate_of_tax_paid": "<UNKNOWN>",
+                        "notes": [
+                            "Maintains a family office called Excession LLC headed by Jared Birchall",
+                            "Receives minimal salaries compared to equity holdings",
+                            "Occasionally receives stock options as compensation",
+                            "Majority of wealth (around 90%) is tied up in Tesla and SpaceX equity",
+                            "Has pledged a significant portion of Tesla shares as collateral for loans",
+                            "Prefers to be fully invested in his companies rather than maintaining liquidity"
+                        ]
+                    }
+                },
+                {
+                    "incomes": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "CEO Salary",
+                                "amount": "Minimal",
+                                "frequency": "Regular",
+                                "net_gross": "<UNKNOWN>",
+                                "timeframe": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Stock Options",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Occasional",
+                                "net_gross": "<UNKNOWN>",
+                                "timeframe": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Tesla Equity",
+                                "amount": "Significant portion of net worth",
+                                "frequency": "<UNKNOWN>",
+                                "net_gross": "<UNKNOWN>",
+                                "timeframe": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "SpaceX Equity",
+                                "amount": "Significant portion of net worth",
+                                "frequency": "<UNKNOWN>",
+                                "net_gross": "<UNKNOWN>",
+                                "timeframe": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "The vast majority of wealth (around 90%) is tied up in Tesla and SpaceX equity",
+                            "Receives minimal salaries compared to equity holdings",
+                            "Occasionally receives stock options as compensation",
+                            "Has smaller but significant holdings in The Boring Company, Neuralink, and X (formerly Twitter)",
+                            "Has pledged a significant portion of Tesla shares as collateral for loans",
+                            "Prefers to be fully invested in his companies rather than maintaining liquidity",
+                            "Has made some angel investments in AI companies and sustainable technology startups"
+                        ]
+                    }
+                }
+            ],
+            "expenses": [
+                {
+                    "loan_repayments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Loans backed by Tesla shares",
+                                "amount": "Significant",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "housing_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Primary Residence",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Austin Property",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Multiple Properties",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "Medium",
+                                "timeframe": "Past and Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "motoring_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla vehicles",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "personal_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Loans backed by Tesla shares",
+                                "amount": "Significant",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Family Office (Excession LLC)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Multiple Properties",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Child Support/Family Expenses",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Philanthropic Giving",
+                                "amount": "Substantial portion of wealth",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Lifetime"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "professional_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Family Office (Excession LLC)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "CEO positions at multiple companies",
+                                "amount": "Minimal",
+                                "frequency": "Regular",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "miscellaneous_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Philanthropic Giving",
+                                "amount": "Substantial portion of wealth",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Lifetime"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Family Office (Excession LLC)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Angel investments in AI companies",
+                                "amount": "Small percentage of overall portfolio",
+                                "frequency": "Occasional",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Investments in sustainable technology startups",
+                                "amount": "Small percentage of overall portfolio",
+                                "frequency": "Occasional",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            }
+                        ],
+                        "notes": [
+                            "Client has pledged to donate a substantial portion of wealth during lifetime or in estate plans",
+                            "Philanthropic focus is on sustainable energy, space exploration, and existential risk reduction, particularly AI safety",
+                            "Client prefers direct control of philanthropic initiatives rather than traditional foundation structures",
+                            "Family office (Excession LLC) is headed by Jared Birchall who handles day-to-day operations"
+                        ]
+                    }
+                },
+                {
+                    "pensions": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "<UNKNOWN>",
+                                "provider": "<UNKNOWN>",
+                                "value": "<UNKNOWN>",
+                                "policy_number": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "No specific pension information was mentioned in the conversation. The client's wealth is primarily tied up in equity holdings in his companies (Tesla, SpaceX, The Boring Company, Neuralink, and X), with approximately 90% of his net worth in Tesla and SpaceX equity."
+                        ]
+                    }
+                },
+                {
+                    "savings_investments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "provider": "Tesla",
+                                "type": "Company Equity",
+                                "value": "Majority of net worth (approximately 45% of total wealth)"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "SpaceX",
+                                "type": "Company Equity",
+                                "value": "Significant portion of net worth (approximately 45% of total wealth)"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "The Boring Company",
+                                "type": "Company Equity",
+                                "value": "Smaller but significant holding"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "Neuralink",
+                                "type": "Company Equity",
+                                "value": "Smaller but significant holding"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "X (formerly Twitter)",
+                                "type": "Company Equity",
+                                "value": "Smaller but significant holding"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "Various",
+                                "type": "Angel investments in AI companies",
+                                "value": "Small percentage of overall portfolio"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "Various",
+                                "type": "Investments in sustainable technology startups",
+                                "value": "Small percentage of overall portfolio"
+                            }
+                        ],
+                        "notes": [
+                            "The vast majority of wealth (around 90%) is tied up in Tesla and SpaceX equity",
+                            "Client prefers to be fully invested in his companies rather than maintaining liquidity",
+                            "Client has pledged a significant portion of Tesla shares as collateral for loans",
+                            "Client uses loans rather than selling shares to fund personal expenses and new investments",
+                            "Client has been divesting most of his real estate properties",
+                            "Client maintains full control over financial decisions through family office Excession LLC"
+                        ]
+                    }
+                },
+                {
+                    "other_assets": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "description": "Real estate properties",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Primary residence in Austin",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Former Bel Air property",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Former Palo Alto property",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client mentioned he has been divesting most of his real estate properties",
+                            "Client maintains multiple properties but is reducing his real estate holdings",
+                            "Client's primary residence is in Austin, Texas at 2500 Lakeway Boulevard, Austin, TX 78734",
+                            "Client previously owned property in Bel Air at 10911 Chalon Road, Los Angeles, CA 90077",
+                            "Client previously owned property in Palo Alto at 891 Woodland Road, Palo Alto, CA 94301"
+                        ]
+                    }
+                },
+                {
+                    "loans_mortgages": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Loans backed by Tesla shares",
+                                "provider": "<UNKNOWN>",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "Significant",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has pledged a significant portion of Tesla shares as collateral for loans",
+                            "Client uses these loans for personal expenses and new investments rather than selling shares",
+                            "This strategy helps avoid creating tax events or diluting ownership positions",
+                            "The loans represent a significant financial commitment but exact details were not specified"
+                        ]
+                    }
+                }
+            ],
+            "health_details": [
+                {
+                    "client": {
+                        "current_state_of_health": "Good",
+                        "state_of_health_explanation": "No specific health issues were mentioned in the conversation, but the client appears to be in good health based on his active involvement in multiple companies and ventures.",
+                        "smoker": "No",
+                        "cigarettes_per_day": "<UNKNOWN>",
+                        "smoker_since": "<UNKNOWN>",
+                        "long_term_care_needed": "No",
+                        "long_term_care_explanation": "<UNKNOWN>",
+                        "will": "Yes",
+                        "information_about_will": "The client has mentioned philanthropic intentions and has \"pledged to donate a substantial portion of my wealth during my lifetime or in my estate plans, with a focus on sustainable energy, space exploration, and existential risk reduction, particularly around AI safety.\"",
+                        "power_of_attorney": "Yes",
+                        "details_of_individual_with_power_of_attorney": "Jared Birchall, who heads the client's family office Excession LLC, handles day-to-day operations but major decisions remain with the client.",
+                        "notes": [
+                            "Client maintains a family office called Excession LLC headed by Jared Birchall",
+                            "Client has committed to significant philanthropic giving",
+                            "Client prefers to control philanthropic initiatives directly rather than through traditional foundation structures",
+                            "Client has pledged to donate a substantial portion of wealth during lifetime or in estate plans",
+                            "Philanthropic focus is on sustainable energy, space exploration, and existential risk reduction, particularly AI safety"
+                        ]
+                    }
+                },
+                {
+                    "protection_policies": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "<UNKNOWN>",
+                                "provider": "<UNKNOWN>",
+                                "monthly_cost": "<UNKNOWN>",
+                                "amount_assured": "<UNKNOWN>",
+                                "in_trust": "<UNKNOWN>",
+                                "assured_until": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "No specific protection policies were mentioned in the conversation. The client's wealth is primarily tied up in equity holdings in his companies (Tesla, SpaceX, The Boring Company, Neuralink, and X), with approximately 90% of his net worth in Tesla and SpaceX equity. The client has mentioned using loans backed by Tesla shares rather than traditional protection policies."
+                        ]
+                    }
+                }
+            ],
+            "objectives": [
+                {
+                    "objectives_extractor": {
+                        "entries": [
+                            {
+                                "category": "Financial",
+                                "description": "Maintain operational control of companies while funding new ventures and philanthropic efforts",
+                                "priority": "High",
+                                "timeframe": "Ongoing",
+                                "additional_notes": "Client wants to maintain control without creating tax events or diluting ownership positions"
+                            },
+                            {
+                                "category": "Financial",
+                                "description": "Optimize portfolio while aligning investments with personal values and long-term vision",
+                                "priority": "High",
+                                "timeframe": "Long-term",
+                                "additional_notes": "Client is open to suggestions on portfolio optimization that align with his values"
+                            },
+                            {
+                                "category": "Financial",
+                                "description": "Explore diversification options while maintaining control of companies",
+                                "priority": "High",
+                                "timeframe": "Near-term",
+                                "additional_notes": "Client specifically mentioned this as a key concern"
+                            },
+                            {
+                                "category": "Financial",
+                                "description": "Develop liquidity strategies that minimize tax impact",
+                                "priority": "High",
+                                "timeframe": "Ongoing",
+                                "additional_notes": "Client currently uses loans backed by Tesla shares rather than selling equity"
+                            },
+                            {
+                                "category": "Philanthropic",
+                                "description": "Donate a substantial portion of wealth during lifetime or through estate plans",
+                                "priority": "High",
+                                "timeframe": "Lifetime",
+                                "additional_notes": "Focus on sustainable energy, space exploration, and existential risk reduction, particularly AI safety"
+                            },
+                            {
+                                "category": "Family",
+                                "description": "Create structures to support family needs",
+                                "priority": "Medium",
+                                "timeframe": "Ongoing",
+                                "additional_notes": "Client has eight children with different mothers and wants to ensure their needs are met"
+                            },
+                            {
+                                "category": "Process",
+                                "description": "Data-driven and efficient wealth management approach",
+                                "priority": "High",
+                                "timeframe": "Immediate",
+                                "additional_notes": "Client values quantitative analysis, clear explanations of strategic rationale, and doesn't need hand-holding"
+                            },
+                            {
+                                "category": "Security",
+                                "description": "Ensure data security and privacy",
+                                "priority": "High",
+                                "timeframe": "Ongoing",
+                                "additional_notes": "Client expressed specific concerns about data security protocols given his public profile"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "2",
+        "form": {
+            "personal_details": [
+                {
+                    "client": {
+                        "title": "Mr.",
+                        "first_name": "Elon",
+                        "middle_names": "Reeve",
+                        "last_name": "Musk",
+                        "pronouns": "<UNKNOWN>",
+                        "date_of_birth": "<UNKNOWN>",
+                        "place_of_birth": "<UNKNOWN>",
+                        "nationality": "<UNKNOWN>",
+                        "gender": "<UNKNOWN>",
+                        "legal_sex": "<UNKNOWN>",
+                        "marital_status": "<UNKNOWN>",
+                        "home_phone": "<UNKNOWN>",
+                        "mobile_phone": "<UNKNOWN>",
+                        "email_address": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "current_address": {
+                        "ownership_status": "Owner",
+                        "postcode": "<UNKNOWN>",
+                        "house_name_number": "<UNKNOWN>",
+                        "street_name": "<UNKNOWN>",
+                        "address_line_3": "<UNKNOWN>",
+                        "address_line_4": "<UNKNOWN>",
+                        "town_city": "<UNKNOWN>",
+                        "county": "<UNKNOWN>",
+                        "country": "Texas",
+                        "move_in_date": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "previous_addresses": {
+                        "entries": [
+                            {
+                                "ownership_status": "Owner",
+                                "postcode": "<UNKNOWN>",
+                                "house_name_number": "<UNKNOWN>",
+                                "street_name": "<UNKNOWN>",
+                                "town_city": "California",
+                                "county": "<UNKNOWN>",
+                                "country": "USA",
+                                "move_in_date": "<UNKNOWN>",
+                                "move_out_date": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dependants_children": {
+                        "entries": [
+                            {
+                                "Name": "X Æ A-12 Musk",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "employment": [
+                {
+                    "client": {
+                        "employment_status": "Employed",
+                        "occupation": "CEO",
+                        "employer": "Tesla, SpaceX, X (formerly Twitter)",
+                        "employment_started": "<UNKNOWN>",
+                        "country_domiciled": "USA",
+                        "resident_for_tax": "USA",
+                        "national_insurance_number": "<UNKNOWN>",
+                        "desired_retirement_age": "<UNKNOWN>",
+                        "highest_rate_of_tax_paid": "<UNKNOWN>",
+                        "notes": [
+                            "Also founder of Neuralink and The Boring Company",
+                            "Splits time primarily between Tesla (50%) and SpaceX (50%)",
+                            "At Tesla, focuses on product design and manufacturing efficiency",
+                            "At SpaceX, heavily involved in engineering decisions for Starship development",
+                            "Restructured role at X to be less time-intensive",
+                            "Planning to gradually transition some operational responsibilities at Tesla over next five years while maintaining strategic oversight",
+                            "Primary focus will increasingly shift toward SpaceX's Mars colonization efforts",
+                            "Has eliminated cash salary at Tesla, opting for performance-based compensation package tied to market cap milestones",
+                            "Wealth primarily in Tesla and SpaceX equity",
+                            "Has significant potential future income from Tesla performance-based compensation tranches that could exceed $50 billion if all milestones are met",
+                            "Exploring establishing more permanent operations outside the US, particularly for SpaceX's Mars initiatives and AI research",
+                            "Has several pending patent portfolios across companies"
+                        ]
+                    }
+                },
+                {
+                    "incomes": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla performance-based compensation package",
+                                "amount": "Could exceed $50 billion",
+                                "frequency": "Based on market cap milestones",
+                                "net_gross": "Gross",
+                                "timeframe": "If all milestones are met"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Cash salary at Tesla",
+                                "amount": "$0",
+                                "frequency": "Annually",
+                                "net_gross": "Gross",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Personal expenditures",
+                                "amount": "$5-10 million",
+                                "frequency": "Annually",
+                                "net_gross": "Net",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Tax obligations",
+                                "amount": "$1-2 billion",
+                                "frequency": "Annually",
+                                "net_gross": "Net",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Stock sales (Tesla)",
+                                "amount": "$23 billion",
+                                "frequency": "One-time",
+                                "net_gross": "Gross",
+                                "timeframe": "Recent (for X acquisition and tax obligations)"
+                            }
+                        ],
+                        "notes": [
+                            "Client has eliminated cash salary at Tesla, opting for performance-based compensation package tied to market cap milestones",
+                            "Wealth primarily in Tesla and SpaceX equity, which is rarely liquidated except for specific project funding or tax obligations",
+                            "Receives minimal traditional income by design",
+                            "When selling shares, it's typically in large, planned transactions rather than regular income streams",
+                            "Liquid assets are limited relative to net worth, as client continuously reinvests in companies",
+                            "Client maintains minimal cash reserves and generates cash through planned stock sales when needed"
+                        ]
+                    }
+                }
+            ],
+            "expenses": [
+                {
+                    "loan_repayments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Margin loans against Tesla shares",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "High",
+                                "timeframe": "Current (reduced significantly after previous market volatility)"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Project-specific financing for SpaceX",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Project-specific financing for other ventures",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "X acquisition debt service",
+                                "amount": "$500 million",
+                                "frequency": "Irregular",
+                                "priority": "High",
+                                "timeframe": "Recent"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "housing_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Primary residence in Texas",
+                                "amount": "$50 million",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Several properties for specific purposes",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "<UNKNOWN>",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Residential and land properties",
+                                "amount": "$120 million",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "<UNKNOWN>",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "motoring_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla vehicles",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "personal_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Personal living expenses",
+                                "amount": "$5-10 million",
+                                "frequency": "Annually",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Art and collectibles",
+                                "amount": "$50 million",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "Low",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Tax obligations",
+                                "amount": "$1-2 billion",
+                                "frequency": "Annually",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "AI safety initiatives",
+                                "amount": "$100 million",
+                                "frequency": "Irregular",
+                                "priority": "Medium",
+                                "timeframe": "Recent"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "professional_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla performance-based compensation package",
+                                "amount": "Could exceed $50 billion",
+                                "frequency": "Based on market cap milestones",
+                                "priority": "High",
+                                "timeframe": "If all milestones are met"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "AI safety initiatives",
+                                "amount": "$100 million",
+                                "frequency": "Irregular",
+                                "priority": "Medium",
+                                "timeframe": "Recent"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Educational initiatives (Ad Astra and technical university plans)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Irregular",
+                                "priority": "Medium",
+                                "timeframe": "Current and ongoing"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Patent portfolios development across companies",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "International operations expansion (SpaceX Mars initiatives and AI research)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current and future"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "miscellaneous_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "AI safety initiatives",
+                                "amount": "$100 million",
+                                "frequency": "Irregular",
+                                "priority": "Medium",
+                                "timeframe": "Recent"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Cryptocurrency holdings (primarily Bitcoin)",
+                                "amount": "$200 million",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "<UNKNOWN>",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Venture investments unrelated to primary companies",
+                                "amount": "$30 million",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "<UNKNOWN>",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "X acquisition debt service",
+                                "amount": "$500 million",
+                                "frequency": "Irregular",
+                                "priority": "High",
+                                "timeframe": "Recent"
+                            }
+                        ],
+                        "notes": [
+                            "Client maintains minimal cash reserves (approximately $800 million in cash and cash equivalents)",
+                            "Client prefers to generate cash through planned stock sales when needed rather than maintaining large reserves",
+                            "Client's liquidity needs include modest personal expenses, substantial tax obligations, and opportunistic investments",
+                            "Client makes significant investments based on opportunities rather than regular allocations"
+                        ]
+                    }
+                },
+                {
+                    "pensions": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Non-traditional",
+                                "provider": "<UNKNOWN>",
+                                "value": "<UNKNOWN>",
+                                "policy_number": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client doesn't have traditional pension structures of meaningful size",
+                            "Client has intentionally avoided building significant asset positions outside his companies",
+                            "Client liquidated most conventional investments years ago to support Tesla during its critical growth phases",
+                            "Client's wealth is primarily in company equity rather than traditional retirement accounts",
+                            "Client is more interested in 'mission continuity vehicles' than conventional retirement planning",
+                            "Client's focus is on ensuring continuous funding for multi-generational projects rather than personal retirement"
+                        ]
+                    }
+                },
+                {
+                    "savings_investments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Cash and cash equivalents",
+                                "value": "$800 million"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Cryptocurrency holdings (primarily Bitcoin)",
+                                "value": "$200 million"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Art and collectibles (primarily historical scientific artifacts)",
+                                "value": "$50 million"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Venture investments unrelated to primary companies",
+                                "value": "$30 million"
+                            }
+                        ],
+                        "notes": [
+                            "Client has intentionally avoided building significant asset positions outside his companies",
+                            "Client liquidated most conventional investments years ago to support Tesla during its critical growth phases",
+                            "Client believes deploying capital in Tesla and SpaceX has greater potential impact than diversification for its own sake",
+                            "Client maintains minimal cash reserves and generates cash through planned stock sales when needed"
+                        ]
+                    }
+                },
+                {
+                    "other_assets": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "description": "Cash and cash equivalents",
+                                "current_value": "$800 million",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Cryptocurrency holdings (primarily Bitcoin)",
+                                "current_value": "$200 million",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Residential and land properties",
+                                "current_value": "$120 million",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Art and collectibles (primarily historical scientific artifacts)",
+                                "current_value": "$50 million",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Various venture investments unrelated to primary companies",
+                                "current_value": "$30 million",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Primary residence in Texas",
+                                "current_value": "$50 million",
+                                "original_value": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has intentionally avoided building significant asset positions outside his companies",
+                            "Client liquidated most conventional investments years ago to support Tesla during its critical growth phases",
+                            "Client believes deploying capital in Tesla and SpaceX has greater potential impact than diversification for its own sake",
+                            "Client maintains minimal cash reserves and generates cash through planned stock sales when needed"
+                        ]
+                    }
+                },
+                {
+                    "loans_mortgages": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Margin loans",
+                                "provider": "Unknown",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "<UNKNOWN>",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "type": "Project-specific financing",
+                                "provider": "SpaceX",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "<UNKNOWN>",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "type": "Project-specific financing",
+                                "provider": "Other ventures",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "<UNKNOWN>",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "type": "Acquisition debt",
+                                "provider": "X (formerly Twitter)",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "$500 million",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has margin loans against Tesla shares, though reduced significantly after previous market volatility created margin call risks",
+                            "Client has project-specific financing for SpaceX and other ventures, secured against the companies rather than personal assets",
+                            "Client recently sold approximately $23 billion in Tesla shares to fund the X acquisition and meet tax obligations"
+                        ]
+                    }
+                }
+            ],
+            "health_details": [
+                {
+                    "client": {
+                        "current_state_of_health": "Good",
+                        "state_of_health_explanation": "Client's health status is inferred as good based on his active involvement in multiple companies and demanding schedule, though not explicitly stated in the conversation.",
+                        "smoker": "No",
+                        "cigarettes_per_day": "<UNKNOWN>",
+                        "smoker_since": "<UNKNOWN>",
+                        "long_term_care_needed": "No",
+                        "long_term_care_explanation": "<UNKNOWN>",
+                        "will": "Yes",
+                        "information_about_will": "Client has established a revocable living trust for basic estate planning.",
+                        "power_of_attorney": "No",
+                        "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+                        "notes": [
+                            "Client has established a revocable living trust for basic estate planning",
+                            "Client has created the Musk Foundation as a vehicle for charitable giving",
+                            "Client has established some basic trusts for his children",
+                            "Client is interested in establishing 'mission continuity vehicles' rather than traditional retirement planning",
+                            "Client is focused on ensuring continuous funding for multi-generational projects"
+                        ]
+                    }
+                },
+                {
+                    "protection_policies": {
+                        "entries": [
+                            {
+                                "owner": "<UNKNOWN>",
+                                "type": "<UNKNOWN>",
+                                "provider": "<UNKNOWN>",
+                                "monthly_cost": "<UNKNOWN>",
+                                "amount_assured": "<UNKNOWN>",
+                                "in_trust": "<UNKNOWN>",
+                                "assured_until": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "No specific protection policies were mentioned in the conversation. The client's discussion focused on his business roles, income structure, asset allocation, and long-term mission planning rather than personal protection policies like life insurance or critical illness coverage."
+                        ]
+                    }
+                }
+            ],
+            "objectives": [
+                {
+                    "objectives_extractor": {
+                        "entries": [
+                            {
+                                "category": "Mission",
+                                "description": "Funding humanity's transition to sustainable energy and establishing a self-sustaining civilization on Mars",
+                                "priority": "High",
+                                "timeframe": "Long-term, multi-generational",
+                                "additional_notes": "Client views these as existential missions requiring commercial viability rather than traditional philanthropic goals"
+                            },
+                            {
+                                "category": "Legacy",
+                                "description": "Creating sustainable funding mechanisms for Mars colonization that will continue beyond client's lifetime",
+                                "priority": "High",
+                                "timeframe": "Multi-generational",
+                                "additional_notes": "Requires establishing financial structures that can operate across generations"
+                            },
+                            {
+                                "category": "Family",
+                                "description": "Ensuring children have resources to pursue meaningful work without the burden of excessive wealth",
+                                "priority": "Medium",
+                                "timeframe": "Long-term",
+                                "additional_notes": "Client wants children supported but challenged, believing excessive wealth can be demotivating"
+                            },
+                            {
+                                "category": "Education",
+                                "description": "Developing educational initiatives focused on engineering, physics, and AI",
+                                "priority": "Medium",
+                                "timeframe": "Current and ongoing",
+                                "additional_notes": "Started with pilot projects like Ad Astra and considering establishing a technical university"
+                            },
+                            {
+                                "category": "Financial",
+                                "description": "Maintaining operational agility and flexibility to rapidly deploy capital when opportunities arise",
+                                "priority": "High",
+                                "timeframe": "Ongoing",
+                                "additional_notes": "Client has been hesitant to create complex estate structures that might limit flexibility"
+                            },
+                            {
+                                "category": "Succession Planning",
+                                "description": "Establishing 'mission continuity vehicles' for multi-generational projects rather than traditional retirement planning",
+                                "priority": "High",
+                                "timeframe": "Near to medium-term",
+                                "additional_notes": "Client is focused on ensuring continuous funding for multi-generational projects rather than personal retirement"
+                            },
+                            {
+                                "category": "Governance",
+                                "description": "Maintaining operational control of companies while building future governance capacity",
+                                "priority": "High",
+                                "timeframe": "Current with long-term planning",
+                                "additional_notes": "Client wants to maintain control during lifetime while establishing structures for future mission continuity"
+                            },
+                            {
+                                "category": "International",
+                                "description": "Establishing more permanent operations outside the US for SpaceX's Mars initiatives and AI research",
+                                "priority": "Medium",
+                                "timeframe": "Current and future",
+                                "additional_notes": "May create opportunities for more efficient global structures"
+                            },
+                            {
+                                "category": "Intellectual Property",
+                                "description": "Managing several pending patent portfolios across companies",
+                                "priority": "Medium",
+                                "timeframe": "Current and ongoing",
+                                "additional_notes": "Patents may eventually be separated from core businesses, creating additional income streams and assets"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "3",
+        "form": {
+            "personal_details": [
+                {
+                    "client": {
+                        "title": "Mr.",
+                        "first_name": "Elon",
+                        "middle_names": "Reeve",
+                        "last_name": "Musk",
+                        "pronouns": "<UNKNOWN>",
+                        "date_of_birth": "<UNKNOWN>",
+                        "place_of_birth": "<UNKNOWN>",
+                        "nationality": "<UNKNOWN>",
+                        "gender": "<UNKNOWN>",
+                        "legal_sex": "<UNKNOWN>",
+                        "marital_status": "<UNKNOWN>",
+                        "home_phone": "<UNKNOWN>",
+                        "mobile_phone": "<UNKNOWN>",
+                        "email_address": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "current_address": {
+                        "ownership_status": "<UNKNOWN>",
+                        "postcode": "<UNKNOWN>",
+                        "house_name_number": "<UNKNOWN>",
+                        "street_name": "<UNKNOWN>",
+                        "address_line_3": "<UNKNOWN>",
+                        "address_line_4": "<UNKNOWN>",
+                        "town_city": "<UNKNOWN>",
+                        "county": "<UNKNOWN>",
+                        "country": "<UNKNOWN>",
+                        "move_in_date": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "previous_addresses": {
+                        "entries": [
+                            {
+                                "ownership_status": "Owner",
+                                "postcode": "<UNKNOWN>",
+                                "house_name_number": "<UNKNOWN>",
+                                "street_name": "<UNKNOWN>",
+                                "town_city": "<UNKNOWN>",
+                                "county": "<UNKNOWN>",
+                                "country": "<UNKNOWN>",
+                                "move_in_date": "<UNKNOWN>",
+                                "move_out_date": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dependants_children": {
+                        "entries": [
+                            {
+                                "Name": "<UNKNOWN>",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "employment": [
+                {
+                    "client": {
+                        "country_domiciled": "<UNKNOWN>",
+                        "resident_for_tax": "<UNKNOWN>",
+                        "national_insurance_number": "<UNKNOWN>",
+                        "employment_status": "Self-employed",
+                        "desired_retirement_age": "No traditional retirement planned",
+                        "occupation": "Entrepreneur/CEO",
+                        "employer": "Self (Tesla, SpaceX, and other ventures)",
+                        "employment_started": "<UNKNOWN>",
+                        "highest_rate_of_tax_paid": "<UNKNOWN>",
+                        "notes": [
+                            "Most wealth is tied to company equity (74% Tesla, 14% SpaceX, 12% other assets)",
+                            "Operates with a small team through family office called Excession",
+                            "No traditional retirement plans - intends to work until physically unable",
+                            "Companies are considered his retirement plan",
+                            "Has established trusts for wealth transfer and philanthropic purposes",
+                            "Has Bitcoin holdings both personally and through Tesla",
+                            "Prefers concentrated investments in his own companies over diversification"
+                        ]
+                    }
+                },
+                {
+                    "incomes": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla equity",
+                                "amount": "74%",
+                                "frequency": "Ongoing",
+                                "net_gross": "Asset value",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "SpaceX equity",
+                                "amount": "14%",
+                                "frequency": "Ongoing",
+                                "net_gross": "Asset value",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Other companies equity",
+                                "amount": "Part of remaining 12%",
+                                "frequency": "Ongoing",
+                                "net_gross": "Asset value",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Bitcoin holdings",
+                                "amount": "Part of remaining 12%",
+                                "frequency": "Fluctuating",
+                                "net_gross": "Asset value",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Real estate properties",
+                                "amount": "Part of remaining 12%",
+                                "frequency": "Ongoing",
+                                "net_gross": "Asset value",
+                                "timeframe": "Current"
+                            }
+                        ],
+                        "notes": [
+                            "Client has no traditional retirement accounts like 401(k)s or IRAs with significant value",
+                            "Most wealth is tied directly to company equity",
+                            "Has established trusts for wealth transfer and philanthropic purposes",
+                            "Holds Bitcoin both personally and through Tesla",
+                            "Has experimented with Ethereum and Dogecoin investments",
+                            "Has been selling most physical possessions including houses",
+                            "Maintains voting control in companies while having liquidity to weather 12-24 months of worst-case scenarios",
+                            "No traditional retirement plans - companies are considered his retirement plan"
+                        ]
+                    }
+                }
+            ],
+            "expenses": [
+                {
+                    "loan_repayments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla share collar strategies",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Periodic",
+                                "priority": "Medium",
+                                "timeframe": "Past"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "housing_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Real estate properties",
+                                "amount": "Part of remaining 12% of net worth",
+                                "frequency": "Ongoing",
+                                "priority": "Low",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "motoring_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla share collar strategies",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Periodic",
+                                "priority": "Medium",
+                                "timeframe": "Past"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "personal_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Bitcoin holdings",
+                                "amount": "Part of remaining 12% of net worth",
+                                "frequency": "Fluctuating",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Ethereum holdings",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Fluctuating",
+                                "priority": "Low",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Dogecoin holdings",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Fluctuating",
+                                "priority": "Low",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Family foundation",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Trusts for wealth transfer",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Trusts for philanthropic purposes",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Family office (Excession)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "professional_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Family office (Excession)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Security teams",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Secure communication systems",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "miscellaneous_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Security teams",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Secure communication systems",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Family office (Excession)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Family foundation",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Trusts for wealth transfer",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Trusts for philanthropic purposes",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ],
+                        "notes": [
+                            "Client operates with a small team through family office called Excession",
+                            "Has established trusts for wealth transfer with milestone-based triggers rather than age-based distributions",
+                            "Has established trusts for philanthropic interests in sustainable energy, space exploration, and AI safety research",
+                            "Has established a family foundation that's still in early development",
+                            "Concerned about privacy and information security as wealth has grown",
+                            "Prefers small, elite teams over large organizations",
+                            "Experiences targeted attempts to access sensitive information across companies",
+                            "Wants to review current trust structures as some were established years ago when wealth and goals were different"
+                        ]
+                    }
+                },
+                {
+                    "pensions": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Non-traditional",
+                                "provider": "Self (Tesla, SpaceX, and other ventures)",
+                                "value": "Majority of net worth",
+                                "policy_number": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client doesn't have formal pension plans - wealth is tied directly to company equity",
+                            "No traditional retirement accounts like 401(k)s or IRAs with significant value",
+                            "Companies are considered his retirement plan - intends to work until physically unable",
+                            "Has established trusts for wealth transfer with milestone-based triggers rather than age-based distributions",
+                            "Has established trusts for philanthropic interests in sustainable energy, space exploration, and AI safety research",
+                            "Has established a family foundation that's still in early development",
+                            "Some trusts need review as they were established years ago when wealth and goals were different"
+                        ]
+                    }
+                },
+                {
+                    "savings_investments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "provider": "Tesla",
+                                "type": "Company Equity",
+                                "value": "74% of net worth"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "SpaceX",
+                                "type": "Company Equity",
+                                "value": "14% of net worth"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "Various",
+                                "type": "Other Companies Equity",
+                                "value": "Part of remaining 12% of net worth"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "Personal and Tesla holdings",
+                                "type": "Bitcoin",
+                                "value": "Part of remaining 12% of net worth"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Ethereum",
+                                "value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Dogecoin",
+                                "value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Real Estate Properties",
+                                "value": "Part of remaining 12% of net worth"
+                            }
+                        ],
+                        "notes": [
+                            "Client's net worth is approximately 74% Tesla equity, 14% SpaceX equity, with remaining 12% in other assets",
+                            "Has been selling most physical possessions including houses to simplify",
+                            "Holds Bitcoin both personally and through Tesla, though Tesla reduced its position",
+                            "Has experimented with Ethereum and Dogecoin investments out of curiosity",
+                            "Prefers concentrated investments in his own ventures over traditional diversification",
+                            "Believes in keeping capital in ventures he controls and understands",
+                            "Has established trusts for wealth transfer and philanthropic purposes",
+                            "Some trusts need review as they were established years ago when wealth and goals were different"
+                        ]
+                    }
+                },
+                {
+                    "other_assets": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "description": "Tesla equity",
+                                "current_value": "74% of net worth",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "SpaceX equity",
+                                "current_value": "14% of net worth",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Other companies equity",
+                                "current_value": "Part of remaining 12% of net worth",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Bitcoin holdings",
+                                "current_value": "Part of remaining 12% of net worth",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Ethereum holdings",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Dogecoin holdings",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Real estate properties",
+                                "current_value": "Part of remaining 12% of net worth",
+                                "original_value": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has been selling most physical possessions including houses to simplify",
+                            "Holds Bitcoin both personally and through Tesla, though Tesla reduced its position",
+                            "Has experimented with Ethereum and Dogecoin investments out of curiosity",
+                            "Prefers concentrated investments in his own ventures over traditional diversification",
+                            "Has established trusts for wealth transfer with milestone-based triggers rather than age-based distributions",
+                            "Has established trusts for philanthropic interests in sustainable energy, space exploration, and AI safety research",
+                            "Has established a family foundation that's still in early development",
+                            "Some trusts need review as they were established years ago when wealth and goals were different",
+                            "Operates with a small team through family office called Excession"
+                        ]
+                    }
+                },
+                {
+                    "loans_mortgages": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Share Collar Strategy",
+                                "provider": "Unknown Financial Institution",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "<UNKNOWN>",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has used collar strategies on Tesla shares in the past",
+                            "Client is wary of complex financial instruments due to hidden risks during market stress",
+                            "Client maintains a strategy of having enough liquidity to weather 12-24 months of worst-case scenarios",
+                            "Client has been in situations where he was asset-rich but cash-poor and needed capital quickly"
+                        ]
+                    }
+                }
+            ],
+            "health_details": [
+                {
+                    "client": {
+                        "current_state_of_health": "Good",
+                        "state_of_health_explanation": "Client appears to be in good health based on his active involvement in multiple companies and long-term work plans. He mentions planning to work \"until I physically can't anymore,\" suggesting current good health.",
+                        "smoker": "No",
+                        "cigarettes_per_day": "<UNKNOWN>",
+                        "smoker_since": "<UNKNOWN>",
+                        "long_term_care_needed": "No",
+                        "long_term_care_explanation": "<UNKNOWN>",
+                        "will": "Yes",
+                        "information_about_will": "Client has established trusts for wealth transfer to his children with milestone-based triggers rather than age-based distributions.",
+                        "power_of_attorney": "No",
+                        "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+                        "notes": [
+                            "Client doesn't plan on traditional retirement - intends to work until physically unable",
+                            "Has established trusts for wealth transfer with milestone-based triggers rather than age-based distributions",
+                            "Has established trusts for philanthropic interests in sustainable energy, space exploration, and AI safety research",
+                            "Has established a family foundation that's still in early development",
+                            "Some trusts need review as they were established years ago when wealth and goals were different",
+                            "Operates with a small team through family office called Excession",
+                            "Concerned about privacy and information security as wealth has grown",
+                            "Has experienced targeted attempts to access sensitive information across companies"
+                        ]
+                    }
+                },
+                {
+                    "protection_policies": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Specialized Insurance",
+                                "provider": "<UNKNOWN>",
+                                "monthly_cost": "<UNKNOWN>",
+                                "amount_assured": "<UNKNOWN>",
+                                "in_trust": "<UNKNOWN>",
+                                "assured_until": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has expressed interest in exploring specialized insurance products designed for high-net-worth individuals that protect against specific business risks",
+                            "Client is interested in metric-triggered insurance products that could provide payouts based on specific business metrics rather than standard loss events",
+                            "Client has used collar strategies on Tesla shares in the past for protection",
+                            "Client maintains a protection strategy of having enough liquidity to weather 12-24 months of worst-case scenarios",
+                            "Client is wary of complex financial instruments due to hidden risks during market stress",
+                            "Client is concerned about privacy and information security as wealth has grown",
+                            "Client has experienced targeted attempts to access sensitive information across companies"
+                        ]
+                    }
+                }
+            ],
+            "objectives": [
+                {
+                    "objectives_extractor": {}
+                }
+            ]
+        }
+    },
+    {
+        "id": "4",
+        "form": {
+            "personal_details": [
+                {
+                    "client": {
+                        "title": "Mr.",
+                        "first_name": "Elon",
+                        "middle_names": "Reeve",
+                        "last_name": "Musk",
+                        "pronouns": "<UNKNOWN>",
+                        "date_of_birth": "<UNKNOWN>",
+                        "place_of_birth": "<UNKNOWN>",
+                        "nationality": "<UNKNOWN>",
+                        "gender": "<UNKNOWN>",
+                        "legal_sex": "<UNKNOWN>",
+                        "marital_status": "<UNKNOWN>",
+                        "home_phone": "<UNKNOWN>",
+                        "mobile_phone": "<UNKNOWN>",
+                        "email_address": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "current_address": {
+                        "house_name_number": "<UNKNOWN>",
+                        "street_name": "<UNKNOWN>",
+                        "address_line_3": "<UNKNOWN>",
+                        "address_line_4": "<UNKNOWN>",
+                        "town_city": "<UNKNOWN>",
+                        "county": "<UNKNOWN>",
+                        "postcode": "<UNKNOWN>",
+                        "country": "<UNKNOWN>",
+                        "ownership_status": "<UNKNOWN>",
+                        "move_in_date": "<UNKNOWN>"
+                    }
+                },
+                {
+                    "previous_addresses": {
+                        "entries": [
+                            {
+                                "house_name_number": "<UNKNOWN>",
+                                "street_name": "<UNKNOWN>",
+                                "town_city": "<UNKNOWN>",
+                                "county": "<UNKNOWN>",
+                                "postcode": "<UNKNOWN>",
+                                "country": "<UNKNOWN>",
+                                "ownership_status": "<UNKNOWN>",
+                                "move_in_date": "<UNKNOWN>",
+                                "move_out_date": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "dependants_children": {
+                        "entries": [
+                            {
+                                "Name": "Child with Justine (twins)",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Child with Justine (triplets)",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Child with Grimes",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Second child with Grimes",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            },
+                            {
+                                "Name": "Child with Neuralink executive",
+                                "Date_of_Birth": "<UNKNOWN>",
+                                "Dependent_Until": "<UNKNOWN>"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "employment": [
+                {
+                    "client": {
+                        "country_domiciled": "United States",
+                        "resident_for_tax": "United States",
+                        "national_insurance_number": "<UNKNOWN>",
+                        "employment_status": "Employed",
+                        "desired_retirement_age": "<UNKNOWN>",
+                        "occupation": "CEO/Entrepreneur",
+                        "employer": "Tesla, SpaceX, X (formerly Twitter), Neuralink, The Boring Company",
+                        "employment_started": "<UNKNOWN>",
+                        "highest_rate_of_tax_paid": "<UNKNOWN>",
+                        "notes": [
+                            "Maintains active leadership roles in multiple companies",
+                            "Plans to remain deeply involved in SpaceX's Mars program over the next decade",
+                            "Expects to potentially reduce day-to-day operational involvement at Tesla while maintaining strategic direction",
+                            "Building X (formerly Twitter) to become a self-sustaining digital ecosystem within 5-7 years",
+                            "Neuralink and The Boring Company will require longer active involvement as they're earlier in development",
+                            "Considering jurisdictional diversification for regulatory stability",
+                            "Wealth primarily tied to companies he leads"
+                        ]
+                    }
+                },
+                {
+                    "incomes": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla CEO",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "SpaceX CEO",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "X (formerly Twitter) CEO",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Neuralink CEO",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "The Boring Company CEO",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Stock holdings/equity",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing"
+                            }
+                        ],
+                        "notes": [
+                            "Client's wealth is primarily tied to companies he leads",
+                            "Uses margin loans against Tesla shares for liquidity",
+                            "Concerned about concentration risk and maintaining strategic positions",
+                            "Needs liquidity for capital injections into ventures, particularly X and SpaceX",
+                            "Has upcoming tax liabilities from stock option exercises",
+                            "Considering jurisdictional diversification for regulatory stability"
+                        ]
+                    }
+                }
+            ],
+            "expenses": [
+                {
+                    "loan_repayments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Margin loans against Tesla shares",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "housing_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Margin loans against Tesla shares",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "High",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "motoring_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Tesla vehicles",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "<UNKNOWN>",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "personal_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Trusts for children",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Long-term"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Education support for children (especially STEM fields)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Current and future"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Alternative stores of value (cryptocurrencies and physical assets)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Capital for X (formerly Twitter) transformation",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Next 5-7 years",
+                                "priority": "High",
+                                "timeframe": "Short to medium-term"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Capital injections for SpaceX (Starship development and Starlink)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Next 2-3 years",
+                                "priority": "High",
+                                "timeframe": "Short-term"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "professional_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Capital for X (formerly Twitter) transformation",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Next 5-7 years",
+                                "priority": "High",
+                                "timeframe": "Short to medium-term"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Capital injections for SpaceX (Starship development and Starlink)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Next 2-3 years",
+                                "priority": "High",
+                                "timeframe": "Short-term"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Research and governance structures for AI safety",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Long-term"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Sustainable energy research and investments",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Long-term"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "miscellaneous_expenses": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "name": "Alternative stores of value (cryptocurrencies and physical assets)",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "Medium",
+                                "timeframe": "Current"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Research and governance structures for AI safety",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Long-term"
+                            },
+                            {
+                                "owner": "Client",
+                                "name": "Sustainable energy research and investments",
+                                "amount": "<UNKNOWN>",
+                                "frequency": "Ongoing",
+                                "priority": "High",
+                                "timeframe": "Long-term"
+                            }
+                        ],
+                        "notes": [
+                            "Client is concerned about systemic risk in the global financial system",
+                            "Client allocates resources to alternative stores of value as a hedge against currency devaluation or banking crisis",
+                            "Client's wealth is primarily tied to companies he leads and is actively deployed in ventures with specific missions",
+                            "Client is thinking across extremely varied time horizons simultaneously - from immediate needs to century-scale planning",
+                            "Client is interested in jurisdictional diversification for regulatory stability"
+                        ]
+                    }
+                },
+                {
+                    "pensions": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "policy_number": "<UNKNOWN>",
+                                "provider": "<UNKNOWN>",
+                                "type": "<UNKNOWN>",
+                                "value": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "No specific pension information was mentioned in the conversation. The client's wealth appears to be primarily tied to his companies (Tesla, SpaceX, X, Neuralink, The Boring Company) rather than traditional pension arrangements."
+                        ]
+                    }
+                },
+                {
+                    "savings_investments": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Alternative stores of value (cryptocurrencies)",
+                                "value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "provider": "<UNKNOWN>",
+                                "type": "Physical assets",
+                                "value": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client is concerned about systemic risk in the global financial system",
+                            "Client allocates resources to alternative stores of value as a hedge against currency devaluation or banking crisis",
+                            "Client's wealth is primarily tied to companies he leads (Tesla, SpaceX, X, Neuralink, The Boring Company)",
+                            "Client is skeptical of many crypto projects but uses some cryptocurrencies as alternative stores of value",
+                            "Client is concerned about concentration risk and is looking for strategic diversification"
+                        ]
+                    }
+                },
+                {
+                    "other_assets": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "description": "Alternative stores of value (cryptocurrencies)",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            },
+                            {
+                                "owner": "Client",
+                                "description": "Physical assets",
+                                "current_value": "<UNKNOWN>",
+                                "original_value": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client allocates resources to alternative stores of value, including certain cryptocurrencies and physical assets, as a hedge against currency devaluation or banking crisis",
+                            "Client is concerned about systemic risk in the global financial system",
+                            "Client remains skeptical of many crypto projects",
+                            "Client's wealth is primarily tied to his companies (Tesla, SpaceX, X, Neuralink, The Boring Company)",
+                            "Client is considering jurisdictional diversification for regulatory stability"
+                        ]
+                    }
+                },
+                {
+                    "loans_mortgages": {
+                        "entries": [
+                            {
+                                "owner": "Client",
+                                "type": "Margin loans",
+                                "provider": "<UNKNOWN>",
+                                "monthly_cost": "<UNKNOWN>",
+                                "outstanding_value": "<UNKNOWN>",
+                                "interest_rate": "<UNKNOWN>",
+                                "special_rate": "<UNKNOWN>",
+                                "final_payment": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "Client has been using margin loans against Tesla shares for liquidity without excessive stock sales that could impact Tesla's share price",
+                            "Client is looking for more sophisticated approaches to access capital while maintaining ownership positions",
+                            "These loans are used to maintain liquidity while avoiding significant share sales that could trigger market concerns",
+                            "Client is concerned about concentration risk and is seeking strategic diversification without signaling lack of confidence in Tesla or SpaceX"
+                        ]
+                    }
+                }
+            ],
+            "health_details": [
+                {
+                    "client": {
+                        "current_state_of_health": "Good",
+                        "state_of_health_explanation": "No specific health issues were mentioned in the conversation",
+                        "smoker": "No",
+                        "cigarettes_per_day": "<UNKNOWN>",
+                        "smoker_since": "<UNKNOWN>",
+                        "long_term_care_needed": "No",
+                        "long_term_care_explanation": "<UNKNOWN>",
+                        "will": "Yes",
+                        "information_about_will": "The client has established trusts for each of his children with staged access - some funds become available during university years, more substantial amounts in their late twenties, and additional distributions as they demonstrate financial responsibility",
+                        "power_of_attorney": "No",
+                        "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+                        "notes": [
+                            "Client has established trusts for each of his children",
+                            "Client is focused on legacy planning including space exploration, AI safety, and sustainable energy",
+                            "Client is concerned about succession planning and ensuring his companies continue their missions if something happens to him",
+                            "Client mentioned the need for voting trusts and governance mechanisms beyond financial considerations",
+                            "Client is thinking across extremely varied time horizons - from immediate needs to century-scale planning"
+                        ]
+                    }
+                },
+                {
+                    "protection_policies": {
+                        "entries": [
+                            {
+                                "owner": "<UNKNOWN>",
+                                "type": "<UNKNOWN>",
+                                "provider": "<UNKNOWN>",
+                                "monthly_cost": "<UNKNOWN>",
+                                "amount_assured": "<UNKNOWN>",
+                                "in_trust": "<UNKNOWN>",
+                                "assured_until": "<UNKNOWN>"
+                            }
+                        ],
+                        "notes": [
+                            "No specific protection policies were mentioned in the conversation. The client (Elon Musk) discussed trusts for his children, but these appear to be wealth management structures rather than protection policies like life insurance or critical illness cover.",
+                            "The client's focus appears to be on broader wealth management, legacy planning, and liquidity strategies rather than traditional protection products."
+                        ]
+                    }
+                }
+            ],
+            "objectives": [
+                {
+                    "objectives_extractor": {}
+                }
+            ]
+        }
+    }
+]

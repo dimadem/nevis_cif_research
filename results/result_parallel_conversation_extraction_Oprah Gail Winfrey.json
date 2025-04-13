@@ -1,0 +1,2457 @@
+[
+  {
+    "id": 1,
+    "dialog_stage": "initial_contact_phase_template",
+    "client_name": "Oprah Gail Winfrey",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Ms.",
+            "first_name": "Oprah",
+            "middle_names": "Gail",
+            "last_name": "Winfrey",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "29/01/1954",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "U.S.",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "Unmarried",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "310-555-7890",
+            "email_address": "oprah@harpo.com"
+          }
+        },
+        {
+          "current_address": {
+            "ownership_status": "Owner",
+            "postcode": "93108",
+            "house_name_number": "65",
+            "street_name": "Promised Land Road",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>",
+            "town_city": "Montecito",
+            "county": "<UNKNOWN>",
+            "country": "USA",
+            "move_in_date": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "house_name_number": "652",
+                "street_name": "Hana Highway",
+                "town_city": "Kula",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "postcode": "96790",
+                "ownership_status": "Owner",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "house_name_number": "60",
+                "street_name": "Mountain View Drive",
+                "town_city": "Telluride",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "postcode": "81435",
+                "ownership_status": "Owner",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "house_name_number": "1100",
+                "street_name": "North Lake Shore Drive",
+                "town_city": "Chicago",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "postcode": "60611",
+                "ownership_status": "Owner",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "<UNKNOWN>",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "United States",
+            "resident_for_tax": "United States",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Self-employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "Media Executive/Entrepreneur",
+            "employer": "Harpo Productions",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Client is Oprah Winfrey, a high-profile public figure",
+              "Maintains multiple residences in California, Hawaii, Colorado, and Illinois",
+              "Has a longtime partner Stedman Graham (not legally married)",
+              "Has close relationship with friend Gayle King who she considers family",
+              "Has no biological children but considers graduates of her Leadership Academy as daughters",
+              "Has a financial director who will join future meetings",
+              "Privacy and security are significant concerns due to public profile"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Media Executive/Entrepreneur (Harpo Productions)",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client is Oprah Winfrey, a high-profile public figure",
+              "Client owns multiple properties in California, Hawaii, Colorado, and Illinois",
+              "Client is self-employed as per previous extraction",
+              "No specific income amounts or frequencies were mentioned in the conversation",
+              "Client has a financial director who will join future meetings"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": []
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Primary residence in Montecito",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Home in Maui, Hawaii",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Property in Telluride, Colorado",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Residence in Chicago",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Vehicle expenses",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Philanthropic giving",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Harpo Productions",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Financial director services",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Assistant (Sophia) services",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Philanthropic giving",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client considers graduates of the Oprah Winfrey Leadership Academy for Girls in South Africa as her daughters",
+              "Client wants to discuss philanthropic goals in detail and structure investments to support those initiatives",
+              "Client plans to have her financial director join the next meeting to discuss philanthropic giving structure"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "policy_number": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "value": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "provider": "Harpo Productions",
+                "type": "Business investment",
+                "value": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "Primary residence in Montecito, California",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Home in Maui, Hawaii",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Property in Telluride, Colorado",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Residence in Chicago, Illinois",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Harpo Productions (business)",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client owns multiple residential properties across the United States",
+              "Client owns Harpo Productions business",
+              "Client has significant philanthropic interests, including the Oprah Winfrey Leadership Academy for Girls in South Africa"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Residential Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client owns multiple residential properties in Montecito (California), Maui (Hawaii), Telluride (Colorado), and Chicago (Illinois), but no specific mortgage or loan information was provided in the conversation."
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "<UNKNOWN>",
+            "information_about_will": "<UNKNOWN>",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "The client is Oprah Gail Winfrey, born January 29, 1954.",
+              "The client has no biological children but considers graduates of the Oprah Winfrey Leadership Academy for Girls as her daughters.",
+              "The client's mother Vernita Lee passed away in 2018 and father Vernon Winfrey passed away in 2022.",
+              "The client has a half-sister Patricia and had another half-sister Patricia Lee Lloyd who passed away in 2003.",
+              "The client has a longtime partner Stedman Graham (not legally married) and considers Gayle King as family."
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "No information about protection policies was provided in the conversation."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {
+            "entries": [
+              {
+                "category": "Financial",
+                "description": "Seeking wealth management services to navigate financial situation and plan for the future",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Client is looking for a wealth advisor to help optimize portfolio"
+              },
+              {
+                "category": "Values Alignment",
+                "description": "Ensure investments align with personal values and long-term vision",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Client specifically mentioned the importance of aligning investments with values"
+              },
+              {
+                "category": "Philanthropy",
+                "description": "Structure investments to support philanthropic initiatives while ensuring long-term financial sustainability",
+                "priority": "High",
+                "timeframe": "Immediate discussion planned",
+                "additional_notes": "Client wants to discuss philanthropic goals in detail at next meeting and structure more efficient philanthropic giving"
+              },
+              {
+                "category": "Family",
+                "description": "Maintains close relationships with graduates of Oprah Winfrey Leadership Academy for Girls",
+                "priority": "Medium",
+                "timeframe": "<UNKNOWN>",
+                "additional_notes": "Client considers these graduates as her daughters in many ways and mentors several directly"
+              },
+              {
+                "category": "Personal Relationships",
+                "description": "Has longtime partner Stedman Graham (not legally married) and close friend Gayle King (considered family)",
+                "priority": "Medium",
+                "timeframe": "<UNKNOWN>",
+                "additional_notes": "These relationships may be important for estate planning considerations"
+              },
+              {
+                "category": "Privacy",
+                "description": "Privacy is extremely important due to public profile",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Client may have legal team review privacy policy and data handling agreements"
+              },
+              {
+                "category": "Estate Planning",
+                "description": "Potential need for estate planning and wealth transfer strategies",
+                "priority": "Medium",
+                "timeframe": "<UNKNOWN>",
+                "additional_notes": "Implied need based on discussion of family relationships and philanthropic interests"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 92.03507208824158,
+      "input_tokens": 103021,
+      "output_tokens": 4387,
+      "total_tokens": 107408,
+      "api_calls": 19
+    }
+  },
+  {
+    "id": 2,
+    "dialog_stage": "professional_information_and_income_details_phase_template",
+    "client_name": "Oprah Gail Winfrey",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Ms.",
+            "first_name": "Oprah",
+            "middle_names": "Gail",
+            "last_name": "Winfrey",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "<UNKNOWN>",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "<UNKNOWN>",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "<UNKNOWN>",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "<UNKNOWN>",
+            "email_address": "<UNKNOWN>"
+          }
+        },
+        {
+          "current_address": {
+            "ownership_status": "Owner",
+            "postcode": "<UNKNOWN>",
+            "house_name_number": "<UNKNOWN>",
+            "street_name": "<UNKNOWN>",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>",
+            "town_city": "Montecito",
+            "county": "California",
+            "country": "USA",
+            "move_in_date": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Chicago",
+                "county": "Illinois",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Colorado",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Maui",
+                "county": "Hawaii",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": []
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "United States",
+            "resident_for_tax": "United States",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "Chairwoman and CEO",
+            "employer": "Harpo Productions",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Maintains strategic leadership roles across multiple enterprises",
+              "Serves on the board at Apple for streaming content initiatives",
+              "Board member and brand ambassador for Weight Watchers",
+              "Partner with Discovery at OWN Network in a strategic role",
+              "Annual gross income of $75-100 million",
+              "60% of income is relatively predictable, 40% is variable",
+              "Net worth of approximately $2.5 billion",
+              "Primary focus is on content development projects, philanthropic work, and strategic business decisions"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Investment income",
+                "amount": "40%",
+                "frequency": "Annually",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "OWN Network partnership",
+                "amount": "25%",
+                "frequency": "Quarterly",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Content library royalties",
+                "amount": "15%",
+                "frequency": "Semi-annually",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Weight Watchers dividends and brand ambassador work",
+                "amount": "10%",
+                "frequency": "Quarterly",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Board positions, speaking engagements, and special projects",
+                "amount": "10%",
+                "frequency": "Variable",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Total annual income",
+                "amount": "$75-100 million",
+                "frequency": "Annually",
+                "net_gross": "Gross",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "About 60% of income is relatively predictable, with the remainder being more variable",
+              "Income can fluctuate based on new content deals and investment performance",
+              "Client is particularly interested in strategies to manage tax implications of income mix",
+              "Project-based income from new content development or speaking engagements is more unpredictable",
+              "Most consistent streams come from OWN Network partnership distributions and Weight Watchers stake"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Strategic mortgages",
+                "amount": "Part of $50 million total liabilities",
+                "frequency": "Monthly",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Primary residence in Montecito, California",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Home on Maui",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Home in Colorado",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Home in Chicago",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Strategic mortgages on properties",
+                "amount": "Part of $50 million total liabilities",
+                "frequency": "Monthly",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Commercial real estate in Nashville",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Various residential properties",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Vehicles across multiple residences",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Philanthropic contributions",
+                "amount": "$40-60 million",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Leadership Academy in South Africa",
+                "amount": "$10-15 million",
+                "frequency": "Annually",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Community organizations in Chicago, Mississippi, and Nashville",
+                "amount": "<UNKNOWN>",
+                "frequency": "Annually",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Multiple residence maintenance",
+                "amount": "<UNKNOWN>",
+                "frequency": "Monthly",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Family office operations",
+                "amount": "<UNKNOWN>",
+                "frequency": "Monthly",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Harpo Productions (Chairwoman and CEO role)",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "OWN Network partnership with Discovery",
+                "amount": "Approximately 25% of annual income",
+                "frequency": "Quarterly distributions",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Apple board position",
+                "amount": "<UNKNOWN>",
+                "frequency": "Annually",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Weight Watchers board position and brand ambassador",
+                "amount": "Approximately 10% of annual income",
+                "frequency": "Quarterly dividends",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Content library royalties",
+                "amount": "Approximately 15% of annual income",
+                "frequency": "Semi-annual",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Family office operations",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Speaking engagements and special projects",
+                "amount": "Part of remaining 10% of annual income",
+                "frequency": "Variable",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Multiple residence maintenance",
+                "amount": "<UNKNOWN>",
+                "frequency": "Monthly",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Family office operations",
+                "amount": "<UNKNOWN>",
+                "frequency": "Monthly",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "Client maintains multiple residences across California, Hawaii, Colorado, and Chicago",
+              "Family office includes multiple management teams for investments",
+              "Client has expressed interest in potentially consolidating some properties",
+              "Client's net worth is approximately $2.5 billion with conservative approach to liabilities"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Early Career Pension",
+                "provider": "<UNKNOWN>",
+                "value": "<UNKNOWN>",
+                "policy_number": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client mentioned having some pension arrangements from early career",
+              "Pensions represent a tiny fraction of client's retirement planning",
+              "Client's focus is more on overall portfolio structure rather than pension arrangements"
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Public Equities",
+                "provider": "Family Office",
+                "value": "25% of $2.5 billion net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Private Business Interests",
+                "provider": "Various including OWN Network and Harpo Productions",
+                "value": "20% of $2.5 billion net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Alternative Investments",
+                "provider": "Various",
+                "value": "15% of $2.5 billion net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Fixed Income and Cash",
+                "provider": "<UNKNOWN>",
+                "value": "10% of $2.5 billion net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Weight Watchers Stake",
+                "provider": "Weight Watchers",
+                "value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Public equities portfolio is managed by three different teams within the family office structure",
+              "About half of public equities are managed with ESG considerations",
+              "Alternative investments include private equity, venture capital, and impact investment funds",
+              "Client is interested in better aligning investments with philanthropic goals",
+              "Client receives quarterly dividends from Weight Watchers stake"
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "Primary residence in Montecito, California",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Home on Maui",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Home in Colorado",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Home in Chicago",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Commercial real estate in Nashville",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Various residential properties",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Real estate holdings (overall)",
+                "current_value": "30% of $2.5 billion net worth",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Vehicles across multiple residences",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client's real estate holdings represent approximately 30% of her $2.5 billion net worth",
+              "Properties are owned through a mix of personal ownership, LLCs, and a family trust",
+              "Client is considering consolidating some properties as travel patterns have changed",
+              "Some properties are primarily for personal use while others are investments",
+              "Client is mindful of capital gains implications of selling properties"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Strategic Mortgages",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "Part of $50 million total liabilities",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "Maintained for tax advantages rather than necessity",
+                "final_payment": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Residential Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client has a conservative approach to debt throughout her career",
+              "Total liabilities are approximately $50 million, which is minimal relative to $2.5 billion asset base",
+              "Mortgages are maintained primarily for tax advantages rather than necessity",
+              "Properties are owned through a mix of personal ownership, LLCs, and a family trust"
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "<UNKNOWN>",
+            "information_about_will": "<UNKNOWN>",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "The conversation does not contain any specific health-related information about the client.",
+              "The discussion focuses on the client's professional activities, income structure, net worth, philanthropic activities, and business interests rather than health details."
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "The conversation does not contain any information about protection policies such as life insurance, critical illness coverage, or other similar policies.",
+              "The discussion focuses on the client's professional activities, income structure, net worth, philanthropic activities, and business interests rather than protection policies."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {}
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 134.03094291687012,
+      "input_tokens": 185463,
+      "output_tokens": 6621,
+      "total_tokens": 192084,
+      "api_calls": 19
+    }
+  },
+  {
+    "id": 3,
+    "dialog_stage": "pension_plans_and_asset_structure_phase_template",
+    "client_name": "Oprah Gail Winfrey",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Ms.",
+            "first_name": "Oprah",
+            "middle_names": "Gail",
+            "last_name": "Winfrey",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "<UNKNOWN>",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "<UNKNOWN>",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "<UNKNOWN>",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "<UNKNOWN>",
+            "email_address": "<UNKNOWN>"
+          }
+        },
+        {
+          "current_address": {
+            "ownership_status": "Owner",
+            "postcode": "<UNKNOWN>",
+            "house_name_number": "<UNKNOWN>",
+            "street_name": "<UNKNOWN>",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>",
+            "town_city": "Montecito",
+            "county": "<UNKNOWN>",
+            "country": "USA",
+            "move_in_date": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Maui",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Chicago",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Nashville",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Colorado",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Hawaii",
+                "county": "<UNKNOWN>",
+                "country": "USA",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "<UNKNOWN>",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "United States",
+            "resident_for_tax": "United States",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Self-employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "Media Executive/Entrepreneur",
+            "employer": "Harpo Productions",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Client owns Harpo Productions and has stake in OWN Network and Weight Watchers",
+              "Client doesn't anticipate traditional retirement in the conventional sense",
+              "Client has a dedicated team managing various aspects of her business interests",
+              "Client remains strategically involved in major business decisions while having presidents running day-to-day operations",
+              "Client has multiple residences including in Montecito and Maui"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Defined Benefit Plan",
+                "amount": "$5 million",
+                "frequency": "Annually",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Upon full retirement"
+              },
+              {
+                "owner": "Client",
+                "name": "Income from commercial properties",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Business interests (Harpo Productions, OWN Network, Weight Watchers)",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Investment returns",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "net_gross": "<UNKNOWN>",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "Client has a self-directed IRA valued at approximately $35 million",
+              "Client has a 401(k) valued at approximately $18 million",
+              "Client makes strategic contributions to IRA when advantageous for tax purposes",
+              "Client is beyond contribution limits for 401(k)",
+              "Client's real estate represents about 25% of net worth, including properties in California, Colorado, Hawaii, and international holdings",
+              "Business interests through Harpo Productions, OWN Network, and stake in Weight Watchers account for roughly 30% of net worth",
+              "Public market investments make up about 20% of net worth",
+              "Private equity investments account for about 10% of net worth",
+              "Liquid assets (cash equivalents and fixed income) represent about 10% of net worth",
+              "Art, collectibles, and alternative investments comprise about 5% of net worth",
+              "Client maintains income-producing commercial properties, particularly in Chicago and Nashville",
+              "Client has established several charitable remainder trusts that provide current income"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": []
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Primary residence in Montecito",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Property in Maui",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Real estate properties in California",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Real estate properties in Colorado",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Real estate properties in Hawaii",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "International real estate holdings",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Income-producing commercial properties in Chicago",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Income-producing commercial properties in Nashville",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Vehicles at primary residences",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Transportation between properties",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Art and collectibles",
+                "amount": "5% of portfolio",
+                "frequency": "Ongoing investments",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Philanthropic contributions",
+                "amount": "<UNKNOWN>",
+                "frequency": "Regular",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Oprah Winfrey Foundation funding",
+                "amount": "<UNKNOWN>",
+                "frequency": "Regular",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Leadership Academy in South Africa",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "University scholarship programs",
+                "amount": "<UNKNOWN>",
+                "frequency": "Regular",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Donor-advised fund contributions",
+                "amount": "<UNKNOWN>",
+                "frequency": "Throughout the year",
+                "priority": "Medium",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Harpo Productions management team",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "OWN Network management team",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Real estate management team of five professionals",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Financial advisors team",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Tax advisors",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Art and collectibles",
+                "amount": "5% of portfolio",
+                "frequency": "Ongoing investments",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Donor-advised fund",
+                "amount": "<UNKNOWN>",
+                "frequency": "Throughout the year",
+                "priority": "Medium",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Charitable remainder trusts",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              },
+              {
+                "owner": "Client",
+                "name": "Education endowments",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current"
+              }
+            ],
+            "notes": [
+              "Client maintains approximately 5% of portfolio in art, collectibles, and alternative investments",
+              "Client has established multiple philanthropic vehicles including foundation funding, charitable remainder trusts, and donor-advised funds",
+              "Client is exploring impact investing to align more of portfolio with mission",
+              "Client has created separate endowments for Leadership Academy in South Africa and university scholarship programs"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Self-directed IRA",
+                "provider": "<UNKNOWN>",
+                "value": "$35 million",
+                "policy_number": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "401(k)",
+                "provider": "Harpo Productions",
+                "value": "$18 million",
+                "policy_number": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Defined Benefit Plan",
+                "provider": "<UNKNOWN>",
+                "value": "Structured to provide $5 million annually upon retirement",
+                "policy_number": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client makes strategic contributions to the IRA when advantageous from a tax perspective",
+              "Client is beyond contribution limits for the 401(k)",
+              "Client views these vehicles as part of legacy planning rather than retirement income",
+              "These pension vehicles represent a relatively small portion of client's overall wealth structure",
+              "Client doesn't anticipate traditional retirement in the conventional sense"
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Real Estate",
+                "provider": "Various",
+                "value": "25% of net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Business Interests",
+                "provider": "Harpo Productions, OWN Network, Weight Watchers",
+                "value": "30% of net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Public Market Investments",
+                "provider": "Various",
+                "value": "20% of net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Private Equity",
+                "provider": "Technology and media companies",
+                "value": "10% of net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Cash and Fixed Income",
+                "provider": "Various",
+                "value": "10% of net worth"
+              },
+              {
+                "owner": "Client",
+                "type": "Art and Collectibles",
+                "provider": "Various",
+                "value": "5% of net worth"
+              }
+            ],
+            "notes": [
+              "Client has a diversified portfolio with focus on values in education, health, and women's empowerment",
+              "Client maintains about 10% in liquid assets for operational flexibility",
+              "Client is concerned about 10% cash position being too conservative given inflation",
+              "Client is interested in increasing investments in women and minority-led businesses",
+              "Client balances financial returns with social impact in investment decisions"
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "Primary residence in Montecito",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Property in Maui",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Real estate properties in California",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Real estate properties in Colorado",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Real estate properties in Hawaii",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "International real estate holdings",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Income-producing commercial properties in Chicago",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Income-producing commercial properties in Nashville",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Art and collectibles",
+                "current_value": "5% of net worth",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Stake in Weight Watchers",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Harpo Productions",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "OWN Network",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Real estate represents about 25% of client's net worth",
+              "Business interests through Harpo Productions, OWN Network, and stake in Weight Watchers account for roughly 30% of net worth",
+              "Art, collectibles, and alternative investments represent 5% of portfolio",
+              "Client has a dedicated real estate management team of five professionals",
+              "Real estate includes personal residences, appreciation-focused properties, and income-producing commercial properties"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Residential Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Commercial Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client owns multiple properties including primary residences in Montecito and Maui",
+              "Client has income-producing commercial properties in Chicago and Nashville",
+              "Real estate represents about 25% of client's net worth",
+              "Client has a dedicated real estate management team of five professionals",
+              "No specific loan or mortgage details (amounts, rates, terms) were provided in the conversation"
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "<UNKNOWN>",
+            "information_about_will": "<UNKNOWN>",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "The conversation focuses on Ms. Winfrey's financial planning, investments, and philanthropic activities rather than her health details.",
+              "Ms. Winfrey mentions having a comprehensive estate planning in place, but no specific details about a will or power of attorney are provided.",
+              "The client appears to be actively engaged in business and philanthropy, suggesting she is in good health, but no explicit health information is mentioned in the conversation."
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "No specific protection policies (life insurance, critical illness, etc.) are mentioned in the conversation.",
+              "Ms. Winfrey mentions having 'extensive estate planning' but does not provide details about specific protection policies.",
+              "The conversation focuses on retirement accounts, investments, real estate, and philanthropic structures rather than protection policies.",
+              "Ms. Winfrey has established several charitable remainder trusts, but these are mentioned in the context of philanthropy rather than personal protection."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {
+            "entries": [
+              {
+                "category": "Retirement",
+                "description": "Maintains multiple retirement vehicles including a self-directed IRA valued at $35 million, a 401(k) from Harpo Productions valued at $18 million, and a defined benefit plan structured to provide about $5 million annually upon retirement",
+                "priority": "Medium",
+                "timeframe": "Long-term",
+                "additional_notes": "Client views these traditional retirement accounts as a relatively small portion of overall wealth structure; more focused on how these vehicles fit into legacy planning rather than building them for retirement income"
+              },
+              {
+                "category": "Investment",
+                "description": "Diversified portfolio with real estate (25%), business interests (30%), public market investments (20%), private equity (10%), liquid assets (10%), and alternative investments (5%)",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Portfolio balances financial returns with social impact; investments aligned with values in education, health, and women's empowerment"
+              },
+              {
+                "category": "Real Estate",
+                "description": "Real estate holdings include personal residences in Montecito and Maui, properties selected for long-term appreciation, and income-producing commercial properties in Chicago and Nashville",
+                "priority": "High",
+                "timeframe": "Long-term",
+                "additional_notes": "Has a dedicated real estate management team of five professionals; interested in opportunity zone investments that combine returns with community development impact"
+              },
+              {
+                "category": "Business",
+                "description": "Maintains strategic involvement in business interests including Harpo Productions, OWN Network, and stake in Weight Watchers",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Focuses on content direction, key partnerships, and brand alignment while trusted presidents run day-to-day operations"
+              },
+              {
+                "category": "Philanthropy",
+                "description": "Multi-layered philanthropic approach through the Oprah Winfrey Foundation, charitable remainder trusts, donor-advised funds, and separate endowments for education initiatives",
+                "priority": "High",
+                "timeframe": "Ongoing and long-term",
+                "additional_notes": "Goal is creating a sustainable philanthropic ecosystem that continues long after she's gone; balancing perpetuity with immediate impact"
+              },
+              {
+                "category": "Financial",
+                "description": "Concerned about 10% cash position being too conservative given inflation concerns",
+                "priority": "Medium",
+                "timeframe": "Near-term",
+                "additional_notes": "Interested in middle-ground solutions that provide liquidity while offering better inflation protection"
+              },
+              {
+                "category": "Investment",
+                "description": "Wants to increase private investments in women and minority-led businesses",
+                "priority": "High",
+                "timeframe": "Near to medium-term",
+                "additional_notes": "Seeking efficient vehicles that meet criteria for both impact and returns; interested in both fund options and direct investment opportunities"
+              },
+              {
+                "category": "Tax Planning",
+                "description": "Concerned about potential tax law changes and optimization of current structures",
+                "priority": "High",
+                "timeframe": "Ongoing",
+                "additional_notes": "Interested in tax efficiency across jurisdictions since assets span multiple countries"
+              },
+              {
+                "category": "Estate Planning",
+                "description": "Wrestling with the balance between providing for loved ones and directing most assets to philanthropic purposes",
+                "priority": "High",
+                "timeframe": "Long-term",
+                "additional_notes": "Has done extensive estate planning but continues to refine approach"
+              },
+              {
+                "category": "Financial Management",
+                "description": "Seeks strategies that don't require day-to-day involvement but allow for strategic contribution beyond capital",
+                "priority": "Medium",
+                "timeframe": "Ongoing",
+                "additional_notes": "Values fresh perspectives that challenge established thinking; open to innovative approaches"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 145.67408299446106,
+      "input_tokens": 118629,
+      "output_tokens": 7486,
+      "total_tokens": 126115,
+      "api_calls": 19
+    }
+  },
+  {
+    "id": 4,
+    "dialog_stage": "regulatory_checks_and_kyc_template",
+    "client_name": "Oprah Gail Winfrey",
+    "form": {
+      "personal_details": [
+        {
+          "client": {
+            "title": "Ms.",
+            "first_name": "Oprah",
+            "middle_names": "Gail",
+            "last_name": "Winfrey",
+            "pronouns": "<UNKNOWN>",
+            "date_of_birth": "<UNKNOWN>",
+            "place_of_birth": "<UNKNOWN>",
+            "nationality": "<UNKNOWN>",
+            "gender": "<UNKNOWN>",
+            "legal_sex": "<UNKNOWN>",
+            "marital_status": "Unmarried",
+            "home_phone": "<UNKNOWN>",
+            "mobile_phone": "<UNKNOWN>",
+            "email_address": "<UNKNOWN>"
+          }
+        },
+        {
+          "current_address": {
+            "ownership_status": "Owner",
+            "postcode": "<UNKNOWN>",
+            "house_name_number": "<UNKNOWN>",
+            "street_name": "<UNKNOWN>",
+            "address_line_3": "<UNKNOWN>",
+            "address_line_4": "<UNKNOWN>",
+            "town_city": "Montecito",
+            "county": "<UNKNOWN>",
+            "country": "United States",
+            "move_in_date": "<UNKNOWN>"
+          }
+        },
+        {
+          "previous_addresses": {
+            "entries": [
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Montecito",
+                "county": "<UNKNOWN>",
+                "country": "United States",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "Maui",
+                "county": "<UNKNOWN>",
+                "country": "United States",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              },
+              {
+                "ownership_status": "Owner",
+                "postcode": "<UNKNOWN>",
+                "house_name_number": "<UNKNOWN>",
+                "street_name": "<UNKNOWN>",
+                "town_city": "<UNKNOWN>",
+                "county": "Colorado",
+                "country": "United States",
+                "move_in_date": "<UNKNOWN>",
+                "move_out_date": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "dependants_children": {
+            "entries": [
+              {
+                "Name": "Leadership Academy graduates",
+                "Date_of_Birth": "<UNKNOWN>",
+                "Dependent_Until": "<UNKNOWN>"
+              }
+            ]
+          }
+        }
+      ],
+      "employment": [
+        {
+          "client": {
+            "country_domiciled": "United States",
+            "resident_for_tax": "United States",
+            "national_insurance_number": "<UNKNOWN>",
+            "employment_status": "Self-employed",
+            "desired_retirement_age": "<UNKNOWN>",
+            "occupation": "Media Executive/Entrepreneur",
+            "employer": "Self (OWN network, partnerships with Apple TV+)",
+            "employment_started": "<UNKNOWN>",
+            "highest_rate_of_tax_paid": "<UNKNOWN>",
+            "notes": [
+              "Client is Oprah Winfrey, a prominent media executive with investments in OWN network and partnership with Apple TV+",
+              "Client has significant real estate holdings in Montecito, Maui, and Colorado",
+              "Client has philanthropic initiatives including Leadership Academy in South Africa",
+              "Client has a long-term partner Stedman Graham but is not married",
+              "Client works with a personal financial team including CFO and personal attorney"
+            ]
+          }
+        },
+        {
+          "incomes": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "OWN network",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Apple TV+ partnership",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "name": "Real estate holdings (Montecito, Maui, Colorado)",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client is Oprah Winfrey, a self-employed media executive and entrepreneur",
+              "Client has significant media investments, particularly with OWN network and Apple TV+ partnership",
+              "Client owns multiple real estate properties in Montecito, Maui, and Colorado that generate unknown income",
+              "Client is looking to streamline real estate holdings, potentially divesting some properties while acquiring others",
+              "Client has a moderate to moderately aggressive risk tolerance for investments",
+              "Client works with a personal financial team including a CFO and personal attorney",
+              "Client's financial goals include optimizing media investments, real estate portfolio management, and expanding philanthropic initiatives"
+            ]
+          }
+        }
+      ],
+      "expenses": [
+        {
+          "loan_repayments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "<UNKNOWN>",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "<UNKNOWN>",
+                "timeframe": "<UNKNOWN>"
+              }
+            ]
+          }
+        },
+        {
+          "housing_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Montecito home",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Maui home",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Colorado home",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Other properties (rarely visited)",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Low",
+                "timeframe": "Considering divestment"
+              },
+              {
+                "owner": "Client",
+                "name": "Potential property in Africa",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Future acquisition being considered"
+              }
+            ]
+          }
+        },
+        {
+          "motoring_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Montecito home transportation",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Maui home transportation",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Colorado home transportation",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Travel between properties",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Potential transportation in Africa",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Future consideration"
+              }
+            ]
+          }
+        },
+        {
+          "personal_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Support for Leadership Academy graduates",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and continuing"
+              },
+              {
+                "owner": "Client",
+                "name": "College education funding for Academy graduates",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and continuing"
+              },
+              {
+                "owner": "Client",
+                "name": "Professional development support for Academy graduates",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and continuing"
+              },
+              {
+                "owner": "Client",
+                "name": "Philanthropic initiatives (education and women's empowerment)",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and expanding"
+              }
+            ]
+          }
+        },
+        {
+          "professional_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Media investments (OWN network)",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and short-term (3-5 years)"
+              },
+              {
+                "owner": "Client",
+                "name": "Partnership with Apple TV+",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and short-term (3-5 years)"
+              },
+              {
+                "owner": "Client",
+                "name": "Leadership Academy in South Africa",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and long-term"
+              },
+              {
+                "owner": "Client",
+                "name": "Foundation operations",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and long-term"
+              },
+              {
+                "owner": "Client",
+                "name": "Financial team (CFO and personal attorney)",
+                "amount": "<UNKNOWN>",
+                "frequency": "Ongoing",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              }
+            ]
+          }
+        },
+        {
+          "miscellaneous_expenses": {
+            "entries": [
+              {
+                "owner": "Client",
+                "name": "Travel expenses",
+                "amount": "<UNKNOWN>",
+                "frequency": "Frequent",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Support for best friend Gayle King",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Support for partner Stedman Graham",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "High",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Environmental impact considerations for properties",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Current and ongoing"
+              },
+              {
+                "owner": "Client",
+                "name": "Potential property acquisition in Africa",
+                "amount": "<UNKNOWN>",
+                "frequency": "<UNKNOWN>",
+                "priority": "Medium",
+                "timeframe": "Next 1-2 years"
+              }
+            ],
+            "notes": [
+              "Client travels frequently and requires flexible communication methods",
+              "Client has a long-term relationship with Stedman Graham for over 30 years (unmarried)",
+              "Client considers Gayle King as family",
+              "Client is interested in impact investing that generates both financial returns and social good",
+              "Client prefers a 70/30 model where 70% of wealth goes to philanthropic causes and 30% remains as capital base"
+            ]
+          }
+        },
+        {
+          "pensions": {
+            "entries": [
+              {
+                "owner": "Client",
+                "policy_number": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "No specific pension information was mentioned in the conversation. The client (Oprah Winfrey) discussed various aspects of her wealth management, including real estate holdings, philanthropic initiatives, and legacy planning, but did not provide details about any pension arrangements."
+            ]
+          }
+        },
+        {
+          "savings_investments": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Media investments",
+                "provider": "OWN network",
+                "value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Media partnership",
+                "provider": "Apple TV+",
+                "value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Real estate",
+                "provider": "Multiple properties (Montecito, Maui, Colorado, others)",
+                "value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "type": "Impact investments",
+                "provider": "<UNKNOWN>",
+                "value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client has a moderate to moderately aggressive risk tolerance depending on the purpose of funds",
+              "Client prefers a 70/30 model where 70% of wealth goes to philanthropic causes and 30% remains as capital base",
+              "Client is interested in impact investing that generates both financial returns and social good",
+              "Client is looking to streamline real estate holdings - potentially divesting some properties while acquiring others (including possibly in Africa)",
+              "Client uses donor-advised funds and foundations as part of current investment strategy",
+              "Client works with a personal financial team including CFO and personal attorney for financial decisions"
+            ]
+          }
+        },
+        {
+          "other_assets": {
+            "entries": [
+              {
+                "owner": "Client",
+                "description": "Montecito home",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Maui home",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Colorado home",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Other properties (rarely visited)",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Potential property in Africa (near Leadership Academy)",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "OWN network (media investment)",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              },
+              {
+                "owner": "Client",
+                "description": "Apple TV+ partnership",
+                "current_value": "<UNKNOWN>",
+                "original_value": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "Client is evaluating properties based on usage, enjoyment, appreciation potential, and maintenance requirements",
+              "Client plans to streamline real estate holdings - divesting rarely used properties while potentially acquiring property in Africa",
+              "Client has a revocable living trust established as part of estate planning",
+              "Client works with a personal financial team including CFO and personal attorney",
+              "Client's estate plan was last comprehensively updated about five years ago"
+            ]
+          }
+        },
+        {
+          "loans_mortgages": {
+            "entries": [
+              {
+                "owner": "Client",
+                "type": "Real Estate Mortgage",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "outstanding_value": "<UNKNOWN>",
+                "interest_rate": "<UNKNOWN>",
+                "special_rate": "<UNKNOWN>",
+                "final_payment": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "The client (Oprah Winfrey) mentions owning multiple properties including homes in Montecito, Maui, and Colorado, but does not provide specific details about mortgages or loans associated with these properties.",
+              "Client is considering streamlining real estate holdings - potentially divesting some properties while acquiring others (possibly in Africa).",
+              "No specific information about loan terms, interest rates, or payment schedules was provided in the conversation."
+            ]
+          }
+        }
+      ],
+      "health_details": [
+        {
+          "client": {
+            "current_state_of_health": "<UNKNOWN>",
+            "state_of_health_explanation": "<UNKNOWN>",
+            "smoker": "<UNKNOWN>",
+            "cigarettes_per_day": "<UNKNOWN>",
+            "smoker_since": "<UNKNOWN>",
+            "long_term_care_needed": "<UNKNOWN>",
+            "long_term_care_explanation": "<UNKNOWN>",
+            "will": "Yes",
+            "information_about_will": "The client has a revocable living trust and estate plan that was last comprehensively updated about five years ago with some minor amendments since then. It includes various charitable components and provisions for key people in her life. She feels it may not fully reflect her current thinking about legacy and impact.",
+            "power_of_attorney": "<UNKNOWN>",
+            "details_of_individual_with_power_of_attorney": "<UNKNOWN>",
+            "notes": [
+              "The client is Oprah Winfrey who has been in a long-term relationship with Stedman Graham for over 30 years but never married.",
+              "She considers the graduates of her Leadership Academy in South Africa as her daughters and provides ongoing financial support to them.",
+              "She wants to create structured trusts or foundations for their continued education and professional development.",
+              "She's focused on her legacy and ensuring her wealth creates positive change after she's gone.",
+              "She aims for 70% of her wealth to eventually go toward philanthropic causes and 30% to remain as a capital base.",
+              "She has expressed interest in updating her estate plan within the next six months."
+            ]
+          }
+        },
+        {
+          "protection_policies": {
+            "entries": [
+              {
+                "owner": "<UNKNOWN>",
+                "type": "<UNKNOWN>",
+                "provider": "<UNKNOWN>",
+                "monthly_cost": "<UNKNOWN>",
+                "amount_assured": "<UNKNOWN>",
+                "in_trust": "<UNKNOWN>",
+                "assured_until": "<UNKNOWN>"
+              }
+            ],
+            "notes": [
+              "No specific protection policies were mentioned in the conversation. The client (Oprah Winfrey) discussed estate planning, philanthropic structures, and wealth management, but did not provide details about any life insurance, critical illness coverage, or other protection policies."
+            ]
+          }
+        }
+      ],
+      "objectives": [
+        {
+          "objectives_extractor": {
+            "entries": [
+              {
+                "category": "Family",
+                "description": "Support graduates of Leadership Academy in South Africa, whom she considers as her daughters",
+                "priority": "High",
+                "timeframe": "Ongoing and long-term",
+                "additional_notes": "Provides ongoing financial support for their college education and professional development; wants to create more structured trusts or foundations specifically for their continued education"
+              },
+              {
+                "category": "Financial",
+                "description": "Optimize media investments, particularly with OWN network and partnership with Apple TV+",
+                "priority": "High",
+                "timeframe": "Short-term (3-5 years)",
+                "additional_notes": "Focused on developing strategies to optimize returns while aligning with her values"
+              },
+              {
+                "category": "Real Estate",
+                "description": "Streamline real estate holdings by divesting some properties and acquiring others that better align with current lifestyle",
+                "priority": "Medium",
+                "timeframe": "Next 1-2 years",
+                "additional_notes": "Values homes in Montecito, Maui, and Colorado; interested in acquiring property in Africa to be closer to Leadership Academy; evaluating properties based on usage, enjoyment, appreciation potential, and maintenance requirements"
+              },
+              {
+                "category": "Philanthropy",
+                "description": "Expand philanthropic initiatives, particularly around education and women's empowerment in developing countries",
+                "priority": "High",
+                "timeframe": "Short-term (3-5 years)",
+                "additional_notes": "Wants to structure initiatives in ways that create lasting impact while being financially sustainable"
+              },
+              {
+                "category": "Legacy Planning",
+                "description": "Ensure wealth continues to create positive change after her lifetime",
+                "priority": "High",
+                "timeframe": "Long-term (10-20 years)",
+                "additional_notes": "Wants to establish sustainable funding for Leadership Academy and other educational initiatives; interested in creating structures that preserve her core values in wealth management and distribution"
+              },
+              {
+                "category": "Investment",
+                "description": "Pursue impact investing opportunities that generate both financial returns and social good",
+                "priority": "Medium",
+                "timeframe": "Long-term (10-20 years)",
+                "additional_notes": "Moderate to moderately aggressive risk tolerance depending on the purpose of funds; values diversification across asset classes and types of impact"
+              },
+              {
+                "category": "Wealth Distribution",
+                "description": "Allocate approximately 70% of wealth to philanthropic causes and 30% as capital base for ongoing funding and providing for close relations",
+                "priority": "High",
+                "timeframe": "Long-term",
+                "additional_notes": "Wants to give back substantially during lifetime rather than accumulating wealth indefinitely; seeks to maximize impact without depleting resources needed for long-term giving"
+              },
+              {
+                "category": "Tax Planning",
+                "description": "Implement more strategic and sophisticated tax-efficient planning",
+                "priority": "High",
+                "timeframe": "Within 6 months",
+                "additional_notes": "Interested in exploring how charitable structures can create tax efficiencies while advancing philanthropic goals; concerned about estate taxes potentially limiting what can be left to foundations and people she cares about"
+              },
+              {
+                "category": "Estate Planning",
+                "description": "Update comprehensive estate plan to reflect current thinking about legacy and impact",
+                "priority": "High",
+                "timeframe": "Within 6 months",
+                "additional_notes": "Last comprehensive update was 5 years ago; includes revocable living trust, charitable components, and provisions for key people; interested in governance structures that ensure philanthropic entities stay true to her vision"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "metrics": {
+      "elapsed_time": 126.75213670730591,
+      "input_tokens": 124013,
+      "output_tokens": 6579,
+      "total_tokens": 130592,
+      "api_calls": 19
+    }
+  }
+]

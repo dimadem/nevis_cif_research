@@ -1,0 +1,264 @@
+{
+    "personal_details": {
+        "client": {
+            "title": "",
+            "first_name": "",
+            "middle_names": "",
+            "last_name": "",
+            "pronouns": "",
+            "date_of_birth": "",
+            "place_of_birth": "",
+            "nationality": "",
+            "gender": "",
+            "legal_sex": "",
+            "marital_status": "",
+            "home_phone": "",
+            "mobile_phone": "",
+            "email_address": ""
+        },
+        "current_address": {
+            "ownership_status": "",
+            "postcode": "",
+            "house_name_number": "",
+            "street_name": "",
+            "address_line_3": "",
+            "address_line_4": "",
+            "town_city": "",
+            "county": "",
+            "country": "",
+            "move_in_date": ""
+        },
+        "previous_addresses": {
+            "entries": [
+                {}
+            ]
+        },
+        "dependants_children": {
+            "entries": [
+                {
+                    "name": "",
+                    "date_of_birth": "",
+                    "dependent_until": ""
+                }
+            ]
+        }
+    },
+    "employment": {
+        "client": {
+            "country_domiciled": "",
+            "resident_for_tax": "",
+            "national_insurance_number": "",
+            "employment_status": "",
+            "desired_retirement_age": "",
+            "occupation": "",
+            "employer": "",
+            "employment_started": "",
+            "highest_rate_of_tax_paid": "",
+            "notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        },
+        "incomes": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "net_gross": "",
+                    "timeframe": ""
+                }
+            ],
+            "incomes_notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        }
+    },
+    "expenses": {
+        "loan_repayments": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "priority": "",
+                    "timeframe": ""
+                }
+            ]
+        },
+        "housing_expenses": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "priority": "",
+                    "timeframe": ""
+                }
+            ]
+        },
+        "motoring_expenses": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "priority": "",
+                    "timeframe": ""
+                }
+            ]
+        },
+        "personal_expenses": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "priority": "",
+                    "timeframe": ""
+                }
+            ]
+        },
+        "professional_expenses": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "priority": "",
+                    "timeframe": ""
+                }
+            ]
+        },
+        "miscellaneous_expenses": {
+            "entries": [
+                {
+                    "owner": "",
+                    "name": "",
+                    "amount": "",
+                    "frequency": "",
+                    "priority": "",
+                    "timeframe": ""
+                }
+            ],
+            "miscellaneous_expenses_notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        },
+        "pensions": {
+            "entries": [
+                {
+                    "owner": "",
+                    "type": "",
+                    "provider": "",
+                    "value": "",
+                    "policy_number": ""
+                }
+            ],
+            "pensions_notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        },
+        "savings_investments": {
+            "entries": [
+                {
+                    "owner": "",
+                    "type": "",
+                    "provider": "",
+                    "value": ""
+                }
+            ],
+            "savings_investments_notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        },
+        "other_assets": {
+            "entries": [
+                {
+                    "owner": "",
+                    "description": "",
+                    "current_value": "",
+                    "original_value": ""
+                }
+            ],
+            "other_assets_notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        },
+        "loans_mortgages": {
+            "entries": [
+                {
+                    "owner": "",
+                    "type": "",
+                    "provider": "",
+                    "monthly_cost": "",
+                    "outstanding_value": "",
+                    "interest_rate": "",
+                    "special_rate": "",
+                    "final_payment": ""
+                }
+            ],
+            "loans_mortgages_notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        }
+    },
+    "health_details": {
+        "client": {
+            "current_state_of_health": "",
+            "state_of_health_explanation": "",
+            "smoker": "",
+            "cigarettes_per_day": "",
+            "smoker_since": "",
+            "long_term_care_needed": "",
+            "long_term_care_explanation": "",
+            "will": "",
+            "information_about_will": "",
+            "power_of_attorney": "",
+            "details_of_individual_with_power_of_attorney": "",
+            "notes": {
+                "entries": [
+                    {}
+                ]
+            }
+        },
+        "protection_policies": {
+            "entries": [
+                {
+                    "owner": "",
+                    "type": "",
+                    "provider": "",
+                    "monthly_cost": "",
+                    "amount_assured": "",
+                    "in_trust": "",
+                    "assured_until": ""
+                }
+            ],
+            "protection_policies_notes": []
+        }
+    },
+    "objectives": {
+        "entries": [
+            {}
+        ]
+    }
+}
